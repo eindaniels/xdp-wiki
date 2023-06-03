@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blogs & Changes', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/xdalul/ca-wiki',
             label: 'GitHub',
             position: 'right',
           },
@@ -101,7 +101,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/TMNUqyKz5T',
               }
             ],
           },
@@ -114,7 +114,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/xdalul/ca-wiki',
               },
             ],
           },
