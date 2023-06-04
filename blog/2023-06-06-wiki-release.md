@@ -1,7 +1,7 @@
 ---
 slug: 'wiki-release'
 title: 'Wiki Alpha Release'
-author: dalol
+author: 'dalol'
 ---
 
 ## Willkommen!
