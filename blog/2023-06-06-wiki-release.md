@@ -1,5 +1,7 @@
 ---
-sidebar_label: 'Wiki Alpha Release!'
+slug: 'wiki-release'
+title: 'Wiki Alpha Release'
+author: dalol
 ---
 
 ## Willkommen!
