@@ -5,7 +5,6 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Geschichte herausfinden',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Du kannst hier im Wiki herausfinden,
@@ -15,7 +14,6 @@ const FeatureList = [
   },
   {
     title: 'Blogs & Changes',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         Hier bekommst du fast immer neuigkeiten
@@ -25,7 +23,6 @@ const FeatureList = [
   },
   {
     title: 'Biografien',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Lerne die Teilnehmer von CA kennen und schreibe vlt.
@@ -38,9 +35,6 @@ const FeatureList = [
 function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>

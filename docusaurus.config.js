@@ -91,7 +91,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Wiki',
                 to: '/docs/intro',
               },
             ],
@@ -106,10 +106,10 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mehr',
             items: [
               {
-                label: 'Blog',
+                label: 'Blogs & Changes',
                 to: '/blog',
               },
               {
@@ -119,7 +119,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Craftattack\n Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Craftattack. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
