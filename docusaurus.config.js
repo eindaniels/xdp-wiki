@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CA 4 Wiki',
-  tagline: 'Alpha Testversion',
+  tagline: 'v0.0.1',
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
@@ -62,11 +62,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/banner.png',
       navbar: {
         title: 'CA 4 Wiki',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'CA Logo',
           src: 'img/logo.png',
         },
         items: [
