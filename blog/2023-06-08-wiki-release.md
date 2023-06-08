@@ -14,7 +14,7 @@ Wir werden einfach gucken wie euch diese Art von Wiki gefällt, es ist ja auch e
 
 ## Ideen
 
-Falls ihr Ideen für den Wiki habt, dann meldet euch im Discord im #ideen Forum. Einfach einen Post dort erstellen und den "Wiki Ideen" Tag auswählen. (**Discord**)[https://discord.gg/H6Za9c2uqx]
+Falls ihr Ideen für den Wiki habt, dann meldet euch im Discord im #ideen Forum. Einfach einen Post dort erstellen und den "Wiki Ideen" Tag auswählen. [**Discord**](https://discord.gg/H6Za9c2uqx)
 
 ## Contributing
 
