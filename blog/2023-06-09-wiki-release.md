@@ -22,4 +22,4 @@ Oben rechts könnt ihr von dieser Seite auf den Github, falls ihr zu faul seid u
 
 ## Viel Spaß!
 
-Und damit sag ich euch.... Viel Spaß im neuen Wiki 🎉
+Und damit sag ich euch.... Viel Spaß im neuen Wiki! 🎉
