@@ -21,7 +21,7 @@ Hey! Da es wohlmöglich vlt. etwas länger dauert mach ich jetzt jeden Monat nen
 
 :::note info
 
-Falls ihr **Ideen** habt für Craftattack 4, dann meldet euch im Discord im Ideen Forum | [**Discord**](https://discord.gg/H6Za9c2uqx)
+Falls ihr **Ideen** habt für Craftattack 4, dann meldet euch im Discord im Ideen Forum. | [**Discord**](https://discord.gg/H6Za9c2uqx)
 
 :::
 
