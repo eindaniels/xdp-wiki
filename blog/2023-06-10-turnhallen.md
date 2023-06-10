@@ -1,0 +1,11 @@
+---
+slug: 'erfahrung-turnhallen'
+title: 'Meine Erfahrung mit... Turnhallen?'
+tags:
+    - turnhallen
+    - vergessen
+    - tipp
+authors: 'wobli'
+---
+
+Ach ja... Turnhallen. Der Ort, wo wir unseren Sport Unterricht hatten. Ein Ort... wo ich viele Stories habe, 3 um genau zu sein die alle von 3 verschiedenen schulen sind. Die erste ist recht kurz, aber wichtig für einen anderen Blog, der in Planung ist. Damals in der 2. Klasse hatte ich nie schwimm Unterricht, sondern wurde bei einer anderen klasse die zu diesem Zeitpunkt immer Sport hatte aufgeteilt. Ich weiß bis heute nicht, warum, aber ich musste nicht mehr bei meiner eigentlichen klasse zum Sport, sondern hatte einfach etwas Freizeit. Story Nummer 2 ist bei meiner zweiten schule wurde ich vergessen, was aber meinem deutsch Lehrer aufgefallen ist. Er war btw wirklich cool drauf und ist bis heute mein Lieblingslehrer dieser schule. Die 3. Und letzte Story handelt in meiner momentanen schule in der 7. Klasse. Ich werde das etwas mehr darüber reden alsoooo.... Ja. Ich habe mein Hoodie angezogen wärend der Ärmel verknotet war... und da war ich nun Alone... Aber ich war nicht eingeschlossen. Neber der Turnhalle war noch eine schule wo ich gesagt habe das ich vergessen wurde und von welcher schule ich komme. Nach rund 20 Minuten kam ein Bus der mich eingesammelt und zurückgebracht hat. Am ende wo ich mein Abschlusszeugnis bekam vor allen Lehrern, Schülern und Eltern... musste meine Lehrerin das sagen bezüglich der Turnhalle. Ich weiß nicht mehr ganz, was sie gesagt hat, aber es war in etwa so... "Jeee hat immer einen kühlen Kopf und macht immer die guten Entscheidungen was ihm nicht nur einmal geholfen hat alleine in einer Turnhalle klarzukommen." Wenn ihr einen Tipp haben wollt (falls ihr in so eine Situation kommt). Sucht nach einem Gebäude was kundenfreundlich ist, in der Nähe der Turnhalle ist und wo es ein Telefon gibt. Sag von wo du kommst und falls die nicht direkt wissen, wo... frag nach deren Handy für die Map App und such nach deiner schule damit die kontakt aufbauen können. So habe ich es gemacht. May luck be on your side and dont get lost. (:
