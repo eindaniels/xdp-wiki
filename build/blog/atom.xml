@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>CA 4 Wiki Blog</title>
+    <updated>2021-06-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>CA 4 Wiki Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[hi]]></title>
+        <id>https://your-docusaurus-test-site.com/blog/2021/06/05/hi</id>
+        <link href="https://your-docusaurus-test-site.com/blog/2021/06/05/hi"/>
+        <updated>2021-06-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[test]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="test">test<a href="#test" class="hash-link" aria-label="Direkter Link zur test" title="Direkter Link zur test">​</a></h2><p>wie gehts?</p>]]></content>
+    </entry>
+</feed>
