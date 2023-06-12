@@ -1,0 +1,14 @@
+---
+slug: 'die-niederlande'
+title: 'Die Niederlande.'
+authors: 'wobli'
+tags:
+    - niederlande
+    - reise
+    - zelten
+---
+
+Die 3 Worlds aus Minecraft… overworld nether und end. 3 Welten und 3 Ländern in denen ich war… Deutschland als overworld wegen Heimat. Frankreich als end, weil… der Verkehr einen im inneren umbringt… ja rly. Und die Niederlande… der nether. Ich war insgesamt nun für 3 sommerferien zeiten in der niederlande ¾ sind fahrten zu nem laden der am Sonntag offen ist… die letzten 25% kommen von... campen. Der laden wo wir immer hinfahren heißt zwei brüder von Venlo. Venlo ist einer der größeren städte in der niederlande und… ich habs gehasst dort hinzufahren weil es immer ein halben tag gedauert hat bis wir wieder zuhause sind. Aber wir sind wegen dem campen hier oder… und ja ICH HASSE MARSHMALLOWS ICH BIN EIN UNMENSCH IK. Campen war noch nie mein ding da es nachts gefühlt russischer winter war und am tag gefühlt die sahara… i wanna die. Das camp wo wir waren war eig sogar sick. Es gab ne hafen gegend die am morgen super ruhig war und wo ich gerne es richtig schön aufgebaut war, ES GIBT NEN STRAND DER NICHT ÜBERVOLL IST und die kleine shopping gegend ist super um mal zu gucken wo man als nächstes hingeht. Die straße runter war ne art jugendtreff wo mir eif ne cola spendiert wurde. Ohne grund btw… idk. Der spielplatz war auch super um meine kleine schwester zu beeindrucken da in der nähe enten waren (zur zeit ihr lieblings tier). Alles andere war irgendwo ne last die ich nie haben wollte UND ich hab meinen schlüssel dort verloren… der war mir sehr besonders da er mir zeigte wie weit ich schon gekommen bin und poof da isser weg… Ich würde jetzt eigendlich die story enden wenn meine klasse nicht die idee hatte die abschluss fahrt zur niederlande zu machen… ja eine woche mit meiner klasse weg von richtiger zuverlässlichkeit da sogar dort die DB fährt… ansonsten muss ich sagen das hollum (das dorf wo wir zur zeit in der niederlande wohnten) DER BESTE ORT JEMALS WAR. Das dorf wäre fast mein CA4 projekt geworden eif weil es so interresant war überall hinzugehen und zb sourviniers zu holen. Wir bekammen auserdem unsere noten fürs letzte zeugnis der 10. Klasse. Bei mir war deutsch 3, englisch 2 und mathe 3. Eig super aber das kann ich besser. Am ende als alle in ihren zimmern waren und sich nen glas sekt genommen hatten (auser ich weil ich nicht alkohol trinke) hatte ich mit meinen roommates das geguckt. ( [klicke hier fürs video](https://www.youtube.com/watch?v=ZWOV0orw-bA&list=PLTtBmeUdjV7L7r50Wu9ARPygh4ykGu4C6) ) Yup das haben wir uns komplett angeguck und ich bin nicht taub… yay. 
+	
+
+Falls du nen reiße tipp haben willst, geh zu ameland/hollum, schöne gegend und alle sind freundlich.
