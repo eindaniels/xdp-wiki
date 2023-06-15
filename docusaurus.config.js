@@ -15,7 +15,7 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
+  
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'craftattack', // Usually your GitHub org/user name.
@@ -128,36 +128,37 @@ const config = {
     }),
   };
 
-module.exports = config;
-module.exports = {
-  // ...
-  themeConfig: {
+  module.exports = {
     // ...
-    algolia: {
-      // The application ID provided by Algolia
-      appId: '1DTQSLSVO6',
-
-      // Public API key: it is safe to commit it
-      apiKey: 'b5247b127ffe5aedfcb3c84f755aff8b',
-
-      indexName: 'dev_WIKI',
-
-      // Optional: see doc section below
-      contextualSearch: true,
-
-      // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-      replaceSearchResultPathname: {
-        from: '/docs/', // or as RegExp: /\/docs\//
-        to: '/',
+    themeConfig: {
+      // ...
+      algolia: {
+        // The application ID provided by Algolia
+        appId: '1DTQSLSVO6',
+  
+        // Public API key: it is safe to commit it
+        apiKey: 'b5247b127ffe5aedfcb3c84f755aff8b',
+  
+        indexName: 'dev_WIKI',
+  
+        // Optional: see doc section below
+        contextualSearch: true,
+  
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+        replaceSearchResultPathname: {
+          from: '/docs/', // or as RegExp: /\/docs\//
+          to: '/',
+        },
+  
+        // Optional: Algolia search parameters
+        searchParameters: {},
+  
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+  
+        //... other Algolia params
       },
-
-      // Optional: Algolia search parameters
-      searchParameters: {},
-
-      // Optional: path for search page that enabled by default (`false` to disable it)
-      searchPagePath: 'search',
-
-      //... other Algolia params
     },
-  },
-};
+  };
+
+module.exports = config;
