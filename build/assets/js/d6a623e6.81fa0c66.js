@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkca_wiki_alpha=self.webpackChunkca_wiki_alpha||[]).push([[4992],{1059:a=>{a.exports=JSON.parse('{"label":"craftattack","permalink":"/blog/tags/craftattack","allTagsPath":"/blog/tags","count":1}')}}]);

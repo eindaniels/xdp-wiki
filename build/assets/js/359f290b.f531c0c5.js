@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkca_wiki_alpha=self.webpackChunkca_wiki_alpha||[]).push([[2144],{9011:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/turnhallen","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

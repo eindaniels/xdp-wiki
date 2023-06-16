@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkca_wiki_alpha=self.webpackChunkca_wiki_alpha||[]).push([[1729],{7287:a=>{a.exports=JSON.parse('{"label":"niederlande","permalink":"/blog/tags/niederlande","allTagsPath":"/blog/tags","count":1}')}}]);

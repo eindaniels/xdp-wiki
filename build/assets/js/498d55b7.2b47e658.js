@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkca_wiki_alpha=self.webpackChunkca_wiki_alpha||[]).push([[2666],{8170:a=>{a.exports=JSON.parse('{"label":"games","permalink":"/blog/tags/games","allTagsPath":"/blog/tags","count":1}')}}]);

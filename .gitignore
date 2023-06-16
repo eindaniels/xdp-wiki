@@ -1,7 +1,14 @@
 # Dependencies
 /node_modules
 # Production
-/build
+/build/blog
+/build/docs
+/build/img
+/build/blog
+/build/markdown-page
+/build/.nojekyll
+/build/404.html
+/build/index.html
 
 # Generated files
 .docusaurus
