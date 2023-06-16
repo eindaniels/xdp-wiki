@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkca_wiki_alpha=self.webpackChunkca_wiki_alpha||[]).push([[6358],{7562:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/helden","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

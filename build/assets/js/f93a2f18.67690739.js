@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkca_wiki_alpha=self.webpackChunkca_wiki_alpha||[]).push([[9424],{307:a=>{a.exports=JSON.parse('{"label":"turnhallen","permalink":"/blog/tags/turnhallen","allTagsPath":"/blog/tags","count":1}')}}]);

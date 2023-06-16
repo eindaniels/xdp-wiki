@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkca_wiki_alpha=self.webpackChunkca_wiki_alpha||[]).push([[7305],{5516:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/zelten","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkca_wiki_alpha=self.webpackChunkca_wiki_alpha||[]).push([[2886],{1190:a=>{a.exports=JSON.parse('{"label":"reise","permalink":"/blog/tags/reise","allTagsPath":"/blog/tags","count":1}')}}]);

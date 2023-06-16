@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkca_wiki_alpha=self.webpackChunkca_wiki_alpha||[]).push([[1751],{7779:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/vergessen","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

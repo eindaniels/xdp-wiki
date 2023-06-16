@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkca_wiki_alpha=self.webpackChunkca_wiki_alpha||[]).push([[7275],{2123:a=>{a.exports=JSON.parse('{"label":"tipp","permalink":"/blog/tags/tipp","allTagsPath":"/blog/tags","count":1}')}}]);
