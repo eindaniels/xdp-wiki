@@ -106,7 +106,7 @@ const config = {
             ],
           },
           {
-            title: 'Mehr',
+            title: '& Mehr',
             items: [
               {
                 label: 'Blogs & Changes',
