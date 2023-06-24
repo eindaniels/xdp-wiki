@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CA 4 Wiki',
-  tagline: 'v0.0.1',
+  tagline: '💙 Ein Jahr Craftattack 💙',
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
