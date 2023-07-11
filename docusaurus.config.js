@@ -79,7 +79,6 @@ const config = {
           {to: '/blog', label: 'Blogs & Changes', position: 'left'},
           {
             href: 'https://github.com/xdalul/ca-wiki',
-            label: '',
             position: 'right',
           },
           {
