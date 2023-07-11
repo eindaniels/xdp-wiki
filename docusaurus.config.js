@@ -163,9 +163,9 @@ const config = {
       announcementBar: {
         id: 'achtung',
         content:
-          'Achtung! Dieses Wiki ist noch in der Alpha, bei Fehlern usw. bitte im <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/TMNUqyKz5T">Discord</a> melden.',
-        backgroundColor: '#ffffff',
-        textColor: '#deeaff',
+          '🚨 Achtung! Dieses Wiki ist noch in der Alpha, bei Fehlern usw. bitte im <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/TMNUqyKz5T">Discord</a> melden. 🚨',
+        backgroundColor: '#eb4242',
+        textColor: '#ffffff',
         isCloseable: true,
       },  
     }),
