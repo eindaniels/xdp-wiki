@@ -121,6 +121,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/xdalul/ca-wiki',
               },
+              {
+                label: 'Statussseite',
+                href: 'https://craftattack.statuspage.io/',
+              },
             ],
           },
         ],
@@ -156,6 +160,14 @@ const config = {
   
         //... other Algolia params
       },
+      announcementBar: {
+        id: 'achtung',
+        content:
+          '🚨 Achtung! Dieses Wiki ist noch in der Alpha, bei Fehlern usw. bitte im <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/TMNUqyKz5T">Discord</a> melden. 🚨',
+        backgroundColor: '#eb4242',
+        textColor: '#ffffff',
+        isCloseable: true,
+      },  
     }),
   };
 
