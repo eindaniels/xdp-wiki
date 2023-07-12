@@ -122,7 +122,7 @@ const config = {
                 href: 'https://github.com/xdalul/ca-wiki',
               },
               {
-                label: 'Statussseite',
+                label: 'Statusseite',
                 href: 'https://craftattack.statuspage.io/',
               },
             ],
