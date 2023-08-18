@@ -9,6 +9,7 @@ Hey, da es aktuell bisschen kritisch ist mit den Regeln oder auch Exploits dies 
 ## Trolling
 
 > Trolling ist erlaubt, wenn ihr nicht übertreibt. Wann übertreiben ist, entscheiden Admins selber. Doch dabei darf auch nicht missbraucht werden von seinen Adminrechten. Übertreiben ist meistens, wenn man sehr große zerstörung an Gebäuden anrichtet oder auch Schäden am Spawn existieren, was man einfach mit ner Flying Machine machen kann. Hier kann im Schlimmsten fall ein Tempban kommen, meistens, nur wenn man Arbeit, die ca. ~1 Monat gebraucht hat, zerstört hat. Jetzt noch Paar beispiele
+
 - Ich, sprenge Pinguindave's base komplett hoch was eine Arbeit ist von ca. ~ +- 2 Wochen. - Warn
 - Wobli, grieft dem Spawn mithilfe Flying Machines - Tempban
 
