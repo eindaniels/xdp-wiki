@@ -1,6 +1,5 @@
 ---
 title: 'CA IV - Community Guidelines'
-description: 'Mehr Detalierte Regeln.'
 ---
 
 
