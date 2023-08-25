@@ -4,7 +4,7 @@ title: 'CA IV - Community Guidelines'
 
 # CA IV - Community Guidelines
 
-Zuletzt geändert • 18/8/23 21 Uhr
+Zuletzt geändert • 26/8/23 1 Uhr
 
 Hey, da es aktuell bisschen kritisch ist mit den Regeln oder auch Exploits dies das werde ich hier paar Guidelines für euch aufstellen, bzw. an sich die Regeln so neu erklären, dass es Verständlich ist, und wisst, wann ihr nen Warn bekommen könnt usw. Naja fangen wir an ...
 
