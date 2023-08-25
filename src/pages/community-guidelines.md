@@ -4,7 +4,7 @@ title: 'CA IV - Community Guidelines'
 
 # CA IV - Community Guidelines
 
-Zuletzt geändert • 18/8/23 21 Uhr
+Zuletzt geändert • 26/8/23 1 Uhr
 
 Hey, da es aktuell bisschen kritisch ist mit den Regeln oder auch Exploits dies das werde ich hier paar Guidelines für euch aufstellen, bzw. an sich die Regeln so neu erklären, dass es Verständlich ist, und wisst, wann ihr nen Warn bekommen könnt usw. Naja fangen wir an ...
 
@@ -60,6 +60,13 @@ Mods **mit Regeln**:
 ## Exploits
 
 > Exploits sind Bugs die entweder in Minecraft sind oder in andere Plugins. z.B. Aktuell haben wir den Exploit, dass Äxte, beim Abbauen von Bäumen mithilfe Timber ins Minus gehen (Durability). Wenn ihr ein Exploit findet dann reported es direkt, an die Admins. Die Nutzung von Exploits sind untersagt, nur sind nicht strafbar. Entweder die Admins nehmen dieses gewisse Item aus deinem Inventory oder du entfernst dieses Item selber in Lava oder wo auch immer.
+
+## Die neue Website-Map
+
+> Die Website Map wurde vor kurzem geupdatet, was jetzt die Map auf einer Website zeigen kann, womit man auch Spieler sehen kann. Deswegen werden wir folgende Regeln setzen aufgrund nen paar Lücken der Regeln vorher:
+
+- **Keine Spieler nachtracken** - Es ist erlaubt, Spieler zu sehen aber sie nicht, falls man sie Sucht oder sonst was. Nach zu Tracken oder auch Snipen.
+- **Biome Suchen** - Man kann sehen wo welche Biomen sind usw, aber wir würden es gerne verbieten, damit ihr noch wenigstens Vanilla spielt, wär dasselbe wie als würde man den Seed mal kurz holen und Chunkbase aufmachen.
 
 
 ## Vergessene Regeln
