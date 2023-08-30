@@ -78,15 +78,15 @@ const config = {
           },
           {to: '/blog', label: 'Blogs', position: 'left'},
           {
+            href: 'https://craftattack.statuspage.io/',
+            label: 'Statusseite',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/xdalul/ca-wiki',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub repository',
-          },
-          {
-            href: 'https://craftattack.statuspage.io/',
-            label: 'Statusseite',
-            position: 'right',
           },
         ],
       },
