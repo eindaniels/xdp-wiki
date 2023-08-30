@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CA 4 Wiki',
-  tagline: '💜 Ein Jahr Craftattack 💜',
+  title: 'CA IV Wiki',
+  tagline: 'CA IV Released',
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
@@ -18,7 +18,7 @@ const config = {
   
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'craftattack', // Usually your GitHub org/user name.
+  organizationName: 'xdalul', // Usually your GitHub org/user name.
   projectName: 'craftattack', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -74,13 +74,14 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'zum Wiki',
+            label: 'Wiki',
           },
-          {to: '/blog', label: 'Blogs & Changes', position: 'left'},
+          {to: '/blog', label: 'Blogs', position: 'left'},
           {
             href: 'https://github.com/xdalul/ca-wiki',
-            label: 'GitHub',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
           },
           {
             href: 'https://craftattack.statuspage.io/',
