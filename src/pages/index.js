@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="CA Wiki 2.0 - jetzt in der Alpha version.">
+      description="null">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
