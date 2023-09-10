@@ -1,5 +1,6 @@
 ---
 title: 'IRL Probleme...'
+slug: 'irl-probleme'
 authors: 'wobli'
 tags:
   - "probleme"
