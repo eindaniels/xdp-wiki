@@ -1,6 +1,6 @@
 ---
 title: 'IRL Probleme...'
-authors: 'wombli'
+authors: 'wobli'
 tags:
   - "probleme"
   - "in-real-life"
