@@ -43,8 +43,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/xdalul/ca-wiki/tree/master/',
-          showLastUpdateAuthor: false,
-          showLastUpdateTime: false,
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
@@ -52,7 +52,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/xdalul/ca-wiki/tree/master/',
-          blogSidebarCount: 10,
+          blogSidebarCount: 15,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
