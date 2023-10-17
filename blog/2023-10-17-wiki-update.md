@@ -16,7 +16,7 @@ Na... Es gibt zum ersten mal nen etwas größeres Wiki update... Naja und auch I
 
 - Auf der Blog Seite, bzw. wo ihr gerade seit, wenn ihr das liest, wurde nun die "Recent Posts" auf 15 erweitert anstatt 5.
 - Auf allgemeinen Wiki-Seiten (z.B. den Biografien) wird nun unten angezeigt, wann es zuletzt geändert wurde und wer es geändert hat (based aus GitHub)
-- Das Kapitel 8 (CA 3 Geschichte) ist nun vollendet! Danke nochmal ans Wombli fürs schreiben dieses Kapitels, falls ihr es lesen wollt bitte [hier klicken](https://dev.craftattack.tk/docs/geschichte-des-serves#kapitel-8-craftattack-3). (Und natürlich auch Danke an Tingly für seine sicht :3)
+- Das Kapitel 8 (CA 3 Geschichte) ist nun vollendet! Danke nochmal ans Wombli fürs schreiben dieses Kapitels, falls ihr es lesen wollt bitte [hier klicken](https://wiki.craftattack.tk/docs/geschichte-des-serves#kapitel-8-craftattack-3). (Und natürlich auch Danke an Tingly für seine sicht :3)
 - Die Regeln wurden nochmal geupdatet. (Fehlende Sachen hinzugefügt)
 
 
