@@ -74,6 +74,11 @@ Mods **mit Regeln**:
 > Regeln die vergessen worden sind, solltet ihr lieber uns melden. Ansonsten gäbs eine Strafe, falls ihr diese Lücke ausnutzt.
 
 
+## Missbrauch
+
+> Nutzung von Admin Rechten oder Fehler in System usw, sind strengstens untersagt und werden mit einem Projekt Ausschluss bestraft, je nach "Wert".
+
+
 ## Unwissenheit schützt vor Strafe nicht.
 
 
