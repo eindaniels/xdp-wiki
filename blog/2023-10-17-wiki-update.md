@@ -20,7 +20,7 @@ Na... Es gibt zum ersten mal nen etwas größeres Wiki update... Naja und auch I
 - Die Regeln wurden nochmal geupdatet. (Fehlende Sachen hinzugefügt)
 
 
-
+    
 ## Kommen wir zu CA... und dem Ende...
 
 
