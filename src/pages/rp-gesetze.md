@@ -61,7 +61,7 @@ title: RP Gesetze
 
 ## 2. __Klansgesetzbuch__
 
-#### Diese Gesetze können von Klans frei geändert werden. So wie sie hier stehen gelten sie in internationalen###  Gebie### ### ten
+#### Diese Gesetze können von Klans frei geändert werden. So wie sie hier stehen gelten sie in internationalen Gebieten.
 
 ### §1 Gründung von Klans und Gesetzen
 ### §1.1 Jede Person ist einem Klan. Jeder Klan hat Land. Auf dem Land eines Klans gelten die Klansgesetze eines Klans.
