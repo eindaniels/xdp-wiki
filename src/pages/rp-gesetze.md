@@ -91,4 +91,7 @@ title: RP Gesetze
 - Sollte die Pflichtverweigerung beim Entschädigen einer Partei vorliegen, so darf die zu entschädigende Partei so viel Besitz, dazu zählt auch Land, des Täters / der Täterin an sich nehmen, wie sie denkt es sei gleichwertig.
 
 
-###### *Letztes Update am **20. Okt. 2023** von **xdalul***
+
+
+
+*Letztes Update am **20. Okt. 2023** von **xdalul***
