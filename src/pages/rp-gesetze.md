@@ -60,22 +60,24 @@ title: RP Gesetze
 
 ## 2. __Klansgesetzbuch__
 
-
 #### Diese Gesetze können von Klans frei geändert werden. So wie sie hier stehen gelten sie in internationalen Gebieten
-
 
 ### §1 Besitz und Diebstahl
 - Jedes Lebewesen hat das Recht auf eigenen Besitz. Sollte dieser Besitz gegen den Willen des Lebewesens von jemand anderen entwendet werden, muss der / die Täter\*in das Beweisstück an das Gericht geben und eine Entschädigung von maximal 32 Diamanten zahlen.
 
-
 ### §2 Recht auf körperliche Unversehrtheit
-- Jedes Lebewesen hat das Recht auf körperliche Unversehrtheit. Sollte ein / eine Täter\*in dieses Recht eines anderen Lebewesens misachten, wird wie folgt vorgegangen:
+### §2.1 Jedes Lebewesen hat das Recht auf körperliche Unversehrtheit. Sollte ein / eine Täter\*in dieses Recht eines anderen Lebewesens misachten, wird wie folgt vorgegangen:
 
 - 1. Geplanter Mord - Sollte der Mord gegen das Opfer von dem / der Täter\*in im voraus geplant worden sein, dann muss der / die Täter\*in eine Entschädigung von maximal 92 Diamanten an das Opfer zahlen.
 - 2. Mord - Sollte der Mord gegen das Opfer von dem / der Täter\*in willkürlich und ohne Planung begangen worden sein, dann muss der / die Täter\*in eine Entschädigung von maximal 64 Diamanten an das Opfer zahlen.
 - 3. Todschlag - Sollte der Mord gegen das Opfer aus Versehen passiert sein, dann muss der / die Täter\*in eine Entschädigung von maximal 2 Diamanten bezahlen.
+- Bei allen genannten Fällen muss auch das Inventar des Opfers als Beweismittel zurückgegeben werden.
 
-- Bei allen genannten Fällen muss auch das Inventar des Opfers als Beweismittel zurückgegeben werden
+### §2.2 Selbstverteigigung ist erlaubt.
+
+
+### §3 Zerstörung und Verschmutzung
+- Das zerstören oder Verschmutzen von internationalen Gebieten oder Land anderer Klans ist ohne Berechtigung nicht erlaubt.
 
 ## 3. __Gewallt des Staates__
 
