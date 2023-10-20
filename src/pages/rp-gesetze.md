@@ -2,7 +2,8 @@
 title: RP Gesetze
 ---
 
-# Internationales Gesetz (Vorschlag):
+# 🌏 Internationales Gesetz:
+
 
 ## 1. __Im Gericht__
 
