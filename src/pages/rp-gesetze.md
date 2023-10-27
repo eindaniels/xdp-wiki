@@ -66,7 +66,7 @@ title: RP Gesetze
 ### §1 Gründung von Klans und Gesetzen
 ### §1.1 Jede Person ist einem Klan. Jeder Klan hat Land. Auf dem Land eines Klans gelten die Klansgesetze eines Klans.
 ### §1.2 Sollte ein Klan kein eigenes Klansgesetzbuch haben gilt das internationale Klansgesetzbuch.
-
+    
 ### §2 Besitz und Diebstahl
 - Jedes Lebewesen hat das Recht auf eigenen Besitz. Sollte dieser Besitz gegen den Willen des Lebewesens von jemand anderen entwendet werden, muss der / die Täter\*in das Beweisstück an das Gericht geben und eine Entschädigung von maximal 32 Diamanten zahlen.
 
