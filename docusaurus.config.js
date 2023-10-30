@@ -67,7 +67,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/banner.png',
       navbar: {
-        title: 'CA 4 Wiki',
+        title: 'CA IV Wiki',
         logo: {
           alt: 'CA Logo',
           src: 'img/logo.png',
@@ -80,6 +80,8 @@ const config = {
             label: 'Wiki',
           },
           {to: '/blog', label: 'Blogs', position: 'left'},
+          {to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
+          {to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
           {
             href: 'https://craftattack.statuspage.io/',
             label: 'Statusseite',
