@@ -67,7 +67,7 @@ Es ist nur eine Idee, also nicht 100 % bestätigt, für Release.
 :::
 
 
-> Na ja, ich hatte bzw. habe die Idee vlt. es so zu machen, dass Teilnehmer jederzeit Personen Whitelisten können, wenn sie wollen. Aber natürlich wird man auch dort limitiert auf eine bestimmte Anzahl. Naja das ist immer noch eine Idee also wird es wahrscheinlich nicht zu 100 % hinzukommen, vlt. addet Feedback bitte im Discord. Also könnten Teilnehmer z.B. /vipadd <Spieler> machen, und dadurch z.B. 5 Teilnehmer max. noch zu dem Projekt hinzufügen. Vielleicht mache ich es noch so, dass erstmal wir (die Admins), euren Request erstmal bestätigen zu können.
+> Na ja, ich hatte bzw. habe die Idee vlt. es so zu machen, dass Teilnehmer jederzeit Personen Whitelisten können, wenn sie wollen. Aber natürlich wird man auch dort limitiert auf eine bestimmte Anzahl. Naja das ist immer noch eine Idee also wird es wahrscheinlich nicht zu 100 % hinzukommen, vlt. addet Feedback bitte im Discord. Also könnten Teilnehmer z.B. /vipadd %Spieler% machen, und dadurch z.B. 5 Teilnehmer max. noch zu dem Projekt hinzufügen. Vielleicht mache ich es noch so, dass erstmal wir (die Admins), euren Request erstmal bestätigen zu können.
 
 
 ## Anarchy - Thema Regeln
