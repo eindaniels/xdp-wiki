@@ -4,7 +4,6 @@ title: 'CA IV - Community Guidelines'
 
 # CA IV - Community Guidelines
 
-Zuletzt geändert • 30/9/23 14 Uhr
 
 Hey, da es aktuell bisschen kritisch ist mit den Regeln oder auch Exploits dies das werde ich hier paar Guidelines für euch aufstellen, bzw. an sich die Regeln so neu erklären, dass es Verständlich ist, und wisst, wann ihr nen Warn bekommen könnt usw. Naja fangen wir an ...
 
@@ -71,8 +70,19 @@ Mods **mit Regeln**:
 > Nutzung von Admin Rechten oder Fehler in System usw, sind strengstens untersagt und werden mit einem Projekt Ausschluss bestraft, je nach "Wert".
 
 
+## Teilnahme an Events
+
+1. Wenn ihr bei einem Event teilnehmen möchtet, müsst ihr 100% den Teilnahmebedigungen des Events zustimmen. Meist werden die Teilnehmerbedigungen 24h vor dem Event veröffentlicht, falls nicht gibt es keine Teilnehmerbedigungen. Bei bruch von den Teilnehmerbedingungen werdet ihr aus dem Event augeschlossen, und dürft zugucken.
+2. Das ständige nachfragen bei einem Event was noch kommt, ist nicht erlaubt.
+
+
+
 ## Unwissenheit schützt vor Strafe nicht.
 
 
 
 ###### Ende der Guidelines
+
+
+
+_Letztes Update am **19. Nov. 2023** von **xdalul**_
