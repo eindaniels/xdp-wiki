@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CCA IV Wiki',
+  title: 'C-CA IV Wiki',
   tagline: 'Community Cratattack 4',
   favicon: 'img/logo.png',
 
@@ -67,7 +67,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/banner.png',
       navbar: {
-        title: 'CCA IV Wiki',
+        title: 'C-CA IV Wiki',
         logo: {
           alt: 'CA Logo',
           src: 'img/logo.png',
