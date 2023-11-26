@@ -47,7 +47,6 @@ Cam Account **dürfen nicht** genutzt werden für:
 
 **Nicht** erlaubte Mods:
 
-- **Litemetica** - stellt ein Hologramm auf, was dir anzeigt, wie man etwas baut (Die gefahr hierbei ist, dass man auch nicht Originale Schematics herunterladen kann und dann auch nutzen kann, ja kann man verbieten nur wie soll man das kontrollieren ...)
 - **Camera Utilities** - kannst damit in Freelook gehen oder auch deine F5 View umändern, sodass du unter der Erde gucken kannst.
 - **Inventory Tabs** - Tabs werden oben beim Inv gezeigt, womit man Kisten von weiter weg als 4 Blöcke öffnen kann.
 
@@ -85,4 +84,4 @@ Mods **mit Regeln**:
 
 
 
-_Letztes Update am **19. Nov. 2023** von **xdalul**_
+_Letztes Update am **26. Nov. 2023** von **xdalul**_
