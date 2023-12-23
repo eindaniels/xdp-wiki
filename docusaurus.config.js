@@ -1,8 +1,10 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {themes} = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
+
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -15,7 +17,7 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-  
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'xdalul', // Usually your GitHub org/user name.
@@ -42,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/xdalul/ca-wiki/tree/master/',
+              'https://github.com/xdalul/ca-wiki/tree/master/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -51,7 +53,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/xdalul/ca-wiki/tree/master/',
+              'https://github.com/xdalul/ca-wiki/tree/master/',
           blogSidebarCount: 15,
         },
         theme: {
@@ -62,119 +64,119 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      // Replace with your project's social card
-      image: 'img/banner.png',
-      navbar: {
-        title: 'C-CA IV Wiki',
-        logo: {
-          alt: 'CA Logo',
-          src: 'img/logo.png',
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+      ({
+        // Replace with your project's social card
+        image: 'img/banner.png',
+        navbar: {
+          title: 'C-CA IV Wiki',
+          logo: {
+            alt: 'CA Logo',
+            src: 'img/logo.png',
+          },
+          items: [
+            {
+              type: 'docSidebar',
+              sidebarId: 'tutorialSidebar',
+              position: 'left',
+              label: 'Wiki',
+            },
+            {to: '/blog', label: 'Blogs', position: 'left'},
+            {to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
+            {to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
+            {
+              href: 'https://craftattack.instatus.com/',
+              label: 'Statusseite',
+              position: 'right',
+            },
+            {
+              href: 'https://github.com/xdalul/ca-wiki',
+              position: 'right',
+              className: 'header-github-link',
+              'aria-label': 'GitHub repository',
+            },
+          ],
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Wiki',
-          },
-          {to: '/blog', label: 'Blogs', position: 'left'},
-          {to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
-          {to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
-          {
-            href: 'https://craftattack.instatus.com/',
-            label: 'Statusseite',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/xdalul/ca-wiki',
-            position: 'right',
-            className: 'header-github-link',
-            'aria-label': 'GitHub repository',
-          },
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Wiki',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/TMNUqyKz5T',
-              }
-            ],
-          },
-          {
-            title: '& Mehr',
-            items: [
-              {
-                label: 'Blogs & Changes',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/xdalul/ca-wiki',
-              },
-              {
-                label: 'Statusseite',
-                href: 'https://craftattack.statuspage.io/',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © 2022-2023 Community Craftattack. Built with Docusaurus.`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: 'K6KQWQITJ3',
-  
-        // Public API key: it is safe to commit it
-        apiKey: '13e374665649da08fb519392ecac2b61',
-  
-        indexName: 'craftattack',
-  
-        // Optional: see doc section below
-        contextualSearch: true,
-  
-        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-        replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
+        footer: {
+          style: 'dark',
+          links: [
+            {
+              title: 'Docs',
+              items: [
+                {
+                  label: 'Wiki',
+                  to: '/docs/intro',
+                },
+              ],
+            },
+            {
+              title: 'Community',
+              items: [
+                {
+                  label: 'Discord',
+                  href: 'https://discord.gg/TMNUqyKz5T',
+                }
+              ],
+            },
+            {
+              title: '& Mehr',
+              items: [
+                {
+                  label: 'Blogs & Changes',
+                  to: '/blog',
+                },
+                {
+                  label: 'GitHub',
+                  href: 'https://github.com/xdalul/ca-wiki',
+                },
+                {
+                  label: 'Statusseite',
+                  href: 'https://craftattack.statuspage.io/',
+                },
+              ],
+            },
+          ],
+          copyright: `Copyright © 2022-2023 Community Craftattack. Built with Docusaurus.`,
         },
-  
-        // Optional: Algolia search parameters
-        searchParameters: {},
-  
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-  
-        //... other Algolia params
-      },
-      announcementBar: {
-        id: 'achtung',
-        content:
-          '🚨 Achtung! Dieses Wiki ist noch in der Alpha, bei Fehlern usw. bitte im <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/TMNUqyKz5T">Discord</a> melden. 🚨',
-        backgroundColor: '#eb4242',
-        textColor: '#ffffff',
-        isCloseable: true,
-      },  
-    }),
-  };
+        prism: {
+          theme: lightCodeTheme,
+          darkTheme: darkCodeTheme,
+        },
+        algolia: {
+          // The application ID provided by Algolia
+          appId: 'K6KQWQITJ3',
+
+          // Public API key: it is safe to commit it
+          apiKey: '13e374665649da08fb519392ecac2b61',
+
+          indexName: 'craftattack',
+
+          // Optional: see doc section below
+          contextualSearch: true,
+
+          // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+          replaceSearchResultPathname: {
+            from: '/docs/', // or as RegExp: /\/docs\//
+            to: '/',
+          },
+
+          // Optional: Algolia search parameters
+          searchParameters: {},
+
+          // Optional: path for search page that enabled by default (`false` to disable it)
+          searchPagePath: 'search',
+
+          //... other Algolia params
+        },
+        announcementBar: {
+          id: 'achtung',
+          content:
+              '🚨 Achtung! Dieses Wiki ist noch in der Alpha, bei Fehlern usw. bitte im <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/TMNUqyKz5T">Discord</a> melden. 🚨',
+          backgroundColor: '#eb4242',
+          textColor: '#ffffff',
+          isCloseable: true,
+        },
+      }),
+};
 
 module.exports = config;
