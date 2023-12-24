@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CA IV Wiki',
-  tagline: 'CA IV Released',
+  title: 'C-CA IV Wiki',
+  tagline: 'Community Cratattack 4',
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'xdalul', // Usually your GitHub org/user name.
-  projectName: 'craftattack', // Usually your repo name.
+  projectName: 'community-craftattack', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -67,7 +67,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/banner.png',
       navbar: {
-        title: 'CA 4 Wiki',
+        title: 'C-CA IV Wiki',
         logo: {
           alt: 'CA Logo',
           src: 'img/logo.png',
@@ -80,8 +80,10 @@ const config = {
             label: 'Wiki',
           },
           {to: '/blog', label: 'Blogs', position: 'left'},
+          {to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
+          {to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
           {
-            href: 'https://craftattack.statuspage.io/',
+            href: 'https://craftattack.instatus.com/',
             label: 'Statusseite',
             position: 'right',
           },
@@ -132,7 +134,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Craftattack. Built with Docusaurus.`,
+        copyright: `Copyright © 2022-2023 Community Craftattack. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
