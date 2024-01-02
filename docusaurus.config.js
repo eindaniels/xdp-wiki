@@ -136,7 +136,7 @@ const config = {
               ],
             },
           ],
-          copyright: `Copyright © 2022-2023 Community Craftattack. Built with Docusaurus.`,
+          copyright: `Copyright © 2022-2024 Community Craftattack. Built with Docusaurus.`,
         },
         prism: {
           theme: lightCodeTheme,
