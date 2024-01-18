@@ -82,16 +82,11 @@ const config = {
             },
             {
               type: 'localeDropdown',
-              position: 'left',
+              position: 'right',
             },
             {to: '/blog', label: 'Blogs', position: 'left'},
             {to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
             {to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
-            {
-              href: 'https://craftattack.instatus.com/',
-              label: 'Statusseite',
-              position: 'right',
-            },
             {
               href: 'https://github.com/xdalul/ca-wiki',
               position: 'right',
