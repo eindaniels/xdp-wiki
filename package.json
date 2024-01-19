@@ -1,6 +1,6 @@
 {
-  "name": "ca-wiki",
-  "version": "0.0.0",
+  "name": "xdp-wiki",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
