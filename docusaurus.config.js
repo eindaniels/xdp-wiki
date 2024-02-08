@@ -162,7 +162,7 @@ const config = {
         announcementBar: {
           id: 'achtung',
           content:
-              '🥽 English Translations coming Soon 👀',
+              '🥽 **English Translations coming Soon** 👀',
           backgroundColor: '#e89048',
           textColor: '#000000',
           isCloseable: false,
