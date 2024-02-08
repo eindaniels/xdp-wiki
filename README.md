@@ -39,3 +39,8 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+### OpenSource
+
+xdP Wiki was built using Jetbrain's WebStorm IDEA. I am thanful that Jetbrains gave us an [open source license](https://www.jetbrains.com/community/opensource/#support) (Click on that to learn more)
