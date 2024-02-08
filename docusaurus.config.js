@@ -164,7 +164,7 @@ const config = {
           content:
               '🥽 English Translations coming Soon 👀',
           backgroundColor: '#e89048',
-          textColor: '#6c6a6a',
+          textColor: '#000000',
           isCloseable: false,
         },
       }),
