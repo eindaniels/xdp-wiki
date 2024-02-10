@@ -69,10 +69,10 @@ const config = {
         // image: 'img/banner.png',
         navbar: {
           title: 'xdP Wiki',
-          logo: {
-            alt: 'CA Logo',
-            src: 'img/logo.png',
-          },
+          // logo: {
+          //   alt: 'CA Logo',
+          //   src: 'img/logo.png',
+          // },
           items: [
             {
               type: 'docSidebar',
@@ -80,13 +80,14 @@ const config = {
               position: 'left',
               label: 'Wiki',
             },
+            {to: '/blog', label: 'Blogs', position: 'left'},
+            //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
+            //{to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
             {
               type: 'localeDropdown',
               position: 'right',
             },
             {to: '/blog', label: 'Blogs', position: 'left'},
-            {to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
-            {to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
             {
               href: 'https://github.com/xdalul/xdp-wiki',
               position: 'right',
@@ -130,7 +131,7 @@ const config = {
               ],
             },
           ],
-          copyright: `Copyright © 2022-2024 Community Craftattack. Built with Docusaurus.`,
+          copyright: `Copyright © 2022-2024 xdP. Built with Docusaurus.`,
         },
         prism: {
           theme: lightCodeTheme,
@@ -165,9 +166,10 @@ const config = {
         announcementBar: {
           id: 'achtung',
           content:
-              '🚨 Das Wiki wird in den nächsten Tagen geupdatet, bei Fehlern bitte ans Team wenden 🚨',
-          backgroundColor: '#fa4343',
-          textColor: '#ffffff',
+              '🥽 English Translations coming Soon 👀',
+          backgroundColor: '#e89048',
+          textColor: '#000000',
+
           isCloseable: false,
         },
       }),
