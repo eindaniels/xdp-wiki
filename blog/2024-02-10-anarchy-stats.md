@@ -10,8 +10,8 @@ tags:
 Heyho! Es gibt endlich wieder Stats, aber diesmal für Anarchy ;3 Kleine Info; Das Wiki wird meistens weiterhin auf Deutsch weitergemacht, ausser die Docs und der Code der Seite, also ändert sich nix mit der Sprache bei den Blogs.
 
 
-# Playtime Top 5 
 
+# Spielzeit Top 5
 
 1. 🥇 1d 17h 8m - **Tinglyyy**
 2. 🥈 14h 57m 22s - **xdalul**
