@@ -31,7 +31,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'de',
-    locales: ['de', 'en'],
+    locales: ['de'],
   },
   presets: [
     [
@@ -83,10 +83,6 @@ const config = {
             {to: '/blog', label: 'Blogs', position: 'left'},
             //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
             //{to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
-            {
-              type: 'localeDropdown',
-              position: 'right',
-            },
             {to: '/blog', label: 'Blogs', position: 'left'},
             {
               href: 'https://github.com/xdalul/xdp-wiki',
