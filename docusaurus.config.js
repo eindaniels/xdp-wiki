@@ -31,9 +31,8 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'de',
-    locales: ['de'],
+    locales: ['de', 'en'],
   },
-
   presets: [
     [
       'classic',
@@ -67,7 +66,7 @@ const config = {
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
         // Replace with your project's social card
-        image: 'img/banner.png',
+        // image: 'img/banner.png',
         navbar: {
           title: 'xdP Wiki',
           // logo: {
@@ -84,6 +83,11 @@ const config = {
             {to: '/blog', label: 'Blogs', position: 'left'},
             //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
             //{to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
+            {
+              type: 'localeDropdown',
+              position: 'right',
+            },
+            {to: '/blog', label: 'Blogs', position: 'left'},
             {
               href: 'https://github.com/xdalul/xdp-wiki',
               position: 'right',
@@ -165,6 +169,7 @@ const config = {
               '🥽 English Translations coming Soon 👀',
           backgroundColor: '#e89048',
           textColor: '#000000',
+
           isCloseable: false,
         },
       }),
