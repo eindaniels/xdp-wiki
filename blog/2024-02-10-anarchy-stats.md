@@ -1,5 +1,5 @@
 ---
-title: 'Erstes Anarchy Stats'
+title: 'Erste Anarchy Stats!'
 slug: 'anarchy-stats-01'
 authors: 'dalol'
 tags:
@@ -11,7 +11,7 @@ Heyho! Es gibt endlich wieder Stats, aber diesmal für Anarchy ;3 Kleine Info; D
 
 
 
-# Spielzeit Top 5
+## Spielzeit Top 5
 
 1. 🥇 1d 17h 8m - **Tinglyyy**
 2. 🥈 14h 57m 22s - **xdalul**
@@ -20,7 +20,7 @@ Heyho! Es gibt endlich wieder Stats, aber diesmal für Anarchy ;3 Kleine Info; D
 5. 1h 46m 48s - Jegradir1 (**Lena**)
 
 
-# Kills Top 5
+## Kills Top 5
 
 
 1. 🥇 13 Kills - **Tinglyyy** 
@@ -28,7 +28,7 @@ Heyho! Es gibt endlich wieder Stats, aber diesmal für Anarchy ;3 Kleine Info; D
 
 
 
-# Tode Top 5 (Deaths Top 5)
+## Tode Top 5 (Deaths Top 5)
 
 1. 🥇 42 Tode - **Pinguindave**
 2. 🥈 14 Tode - **Tinglyyy**
@@ -44,7 +44,7 @@ Man kann die Stats Kills und Tode jederzeit online aufrufen, indem ihr `/tode` (
 
 
 
-# Sessions Top 5 (Sitzungen)
+## Sessions Top 5 (Sitzungen)
 
 1. 🥇 67 Sessions - **Tinglyyy**
 2. 🥈 47 Sessions - **Pinguindave**
@@ -60,7 +60,7 @@ Wenn man den Server betritt, startet eine Session (Sitzung), diese Sitzung hält
 :::
 
 
-# Andere Stats
+## Andere Stats
 
 
 Most used Weapon; **Diamond Sword**
