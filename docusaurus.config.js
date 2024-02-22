@@ -33,8 +33,7 @@ const config = {
     defaultLocale: 'de',
     locales: ['de', 'en', 'fr'],
     fr: {
-      label: 'Komeko',
-      calendar: 'gregory',
+      label: 'Komeko'
     },
 },
   presets: [
