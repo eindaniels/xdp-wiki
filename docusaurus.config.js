@@ -83,7 +83,6 @@ const config = {
             {to: '/blog', label: 'Blogs', position: 'left'},
             //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
             //{to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
-            {to: '/blog', label: 'Blogs', position: 'left'},
             {
               href: 'https://github.com/xdalul/xdp-wiki',
               position: 'right',
