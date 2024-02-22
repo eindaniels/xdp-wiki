@@ -32,9 +32,6 @@ const config = {
   i18n: {
     defaultLocale: 'de',
     locales: ['de', 'en', 'fr'],
-    fr: {
-      label: 'Komeko'
-    },
 },
   presets: [
     [
