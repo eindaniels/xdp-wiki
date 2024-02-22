@@ -31,8 +31,8 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'de',
-    locales: ['de', 'en', 'tgl'],
-    tgl: {
+    locales: ['de', 'en', 'fr'],
+    fr: {
       label: 'Komeko',
       calendar: 'gregory',
     },
