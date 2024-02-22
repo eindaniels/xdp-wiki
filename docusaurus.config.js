@@ -94,7 +94,6 @@ const config = {
               type: 'localeDropdown',
               position: 'right',
             },
-            {to: '/blog', label: 'Blogs', position: 'left'},
             {
               href: 'https://github.com/xdalul/xdp-wiki',
               position: 'right',
