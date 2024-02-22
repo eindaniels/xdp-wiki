@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Blog" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Blog">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/de/code.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/de/code.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/de/docusaurus-plugin-content-blog/options.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/de/docusaurus-plugin-content-blog/options.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/de/docusaurus-plugin-content-docs/current.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/de/docusaurus-plugin-content-docs/current.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/de/docusaurus-plugin-content-docs/current/geschichte-des-serves.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/de/docusaurus-plugin-content-docs/current/geschichte-des-serves.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/de/docusaurus-plugin-content-docs/current/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/de/docusaurus-plugin-content-docs/current/intro.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/de/docusaurus-plugin-content-docs/current/mitglieder-biografien.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/de/docusaurus-plugin-content-docs/current/mitglieder-biografien.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/de/docusaurus-theme-classic/footer.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/de/docusaurus-theme-classic/footer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/de/docusaurus-theme-classic/navbar.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/de/docusaurus-theme-classic/navbar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/code.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/code.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-blog/options.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-blog/options.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/geschichte-des-serves.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/geschichte-des-serves.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/intro.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/mitglieder-biografien.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/docusaurus-plugin-content-docs/current/mitglieder-biografien.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/footer.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/footer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/navbar.json" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/en/docusaurus-theme-classic/navbar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +56,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;update/i18n&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -91,6 +111,7 @@
       <workItem from="1707395367165" duration="216000" />
       <workItem from="1707395653088" duration="2373000" />
       <workItem from="1707559781657" duration="2478000" />
+      <workItem from="1708610096178" duration="517000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />

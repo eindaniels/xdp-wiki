@@ -1,10 +1,10 @@
 {
   "link.title.Docs": {
-    "message": "Docs",
+    "message": "Doks",
     "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Community": {
-    "message": "Community",
+    "message": "Gemeinschaft",
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.& Mehr": {
@@ -20,7 +20,7 @@
     "description": "The label of footer link with label=Discord linking to https://discord.gg/TMNUqyKz5T"
   },
   "link.item.label.Blogs & Changes": {
-    "message": "Blogs & Changes",
+    "message": "Blogs & Entwicklung",
     "description": "The label of footer link with label=Blogs & Changes linking to /blog"
   },
   "link.item.label.GitHub": {
@@ -32,7 +32,7 @@
     "description": "The label of footer link with label=Statusseite linking to https://craftattack.statuspage.io/"
   },
   "copyright": {
-    "message": "Copyright © 2022-2024 Community Craftattack. Built with Docusaurus.",
+    "message": "Copyright © 2022-2024 Community Craftattack. Mit Docusaurus gebaut.",
     "description": "The footer copyright"
   }
 }
