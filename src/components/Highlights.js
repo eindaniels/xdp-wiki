@@ -5,9 +5,9 @@ export default function Highlight({children, color}) {
     <span
       style={{
         backgroundColor: color,
-        borderRadius: '1px',
+        borderRadius: '2px',
         color: '#fff',
-        padding: '0.2rem',
+        padding: '0.1rem',
       }}>
       {children}
     </span>
