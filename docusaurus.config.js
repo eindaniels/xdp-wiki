@@ -171,7 +171,7 @@ const config = {
         announcementBar: {
           id: 'achtung',
           content:
-              '🚨 Achtung! Dieses Wiki ist noch in der Alpha, bei Fehlern usw. bitte im <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/TMNUqyKz5T">Discord</a> melden. 🚨',
+              '🚨 Du befindest dich auf der Development Seite des Wiki\'s 🚨',
           backgroundColor: '#eb4242',
           textColor: '#ffffff',
           isCloseable: true,
