@@ -8,9 +8,9 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'C-CA IV Wiki',
-  tagline: 'Community Cratattack 4',
-  favicon: 'img/logo.png',
+  title: 'xdP Wiki',
+  tagline: 'xdalul\'s Projekte',
+  // favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://wiki.craftattack.tk',
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'xdalul', // Usually your GitHub org/user name.
-  projectName: 'community-craftattack', // Usually your repo name.
+  projectName: 'xdp', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -31,9 +31,8 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'de',
-    locales: ['de'],
+    locales: ['de', 'en'],
   },
-
   presets: [
     [
       'classic',
@@ -44,7 +43,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-              'https://github.com/xdalul/ca-wiki/tree/master/',
+              'https://github.com/xdalul/xdp-wiki/tree/master/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -53,7 +52,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-              'https://github.com/xdalul/ca-wiki/tree/master/',
+              'https://github.com/xdalul/xdp-wiki/tree/master/',
           blogSidebarCount: 15,
         },
         theme: {
@@ -67,13 +66,13 @@ const config = {
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
         // Replace with your project's social card
-        image: 'img/banner.png',
+        // image: 'img/banner.png',
         navbar: {
-          title: 'C-CA IV Wiki',
-          logo: {
-            alt: 'CA Logo',
-            src: 'img/logo.png',
-          },
+          title: 'xdP Wiki',
+          // logo: {
+          //   alt: 'CA Logo',
+          //   src: 'img/logo.png',
+          // },
           items: [
             {
               type: 'docSidebar',
@@ -82,15 +81,10 @@ const config = {
               label: 'Wiki',
             },
             {to: '/blog', label: 'Blogs', position: 'left'},
-            {to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
-            {to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
+            //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
+            //{to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
             {
-              href: 'https://craftattack.instatus.com/',
-              label: 'Statusseite',
-              position: 'right',
-            },
-            {
-              href: 'https://github.com/xdalul/ca-wiki',
+              href: 'https://github.com/xdalul/xdp-wiki',
               position: 'right',
               className: 'header-github-link',
               'aria-label': 'GitHub repository',
@@ -127,16 +121,12 @@ const config = {
                 },
                 {
                   label: 'GitHub',
-                  href: 'https://github.com/xdalul/ca-wiki',
-                },
-                {
-                  label: 'Statusseite',
-                  href: 'https://craftattack.statuspage.io/',
+                  href: 'https://github.com/xdalul/xdp-wiki',
                 },
               ],
             },
           ],
-          copyright: `Copyright © 2022-2024 Community Craftattack. Built with Docusaurus.`,
+          copyright: `Copyright © 2022-2024 xdP. Built with Docusaurus.`,
         },
         prism: {
           theme: lightCodeTheme,
@@ -171,10 +161,11 @@ const config = {
         announcementBar: {
           id: 'achtung',
           content:
-              '🚨 Du befindest dich auf der Development Seite des Wiki\'s 🚨',
-          backgroundColor: '#eb4242',
-          textColor: '#ffffff',
-          isCloseable: true,
+              '🥽 English Translations coming Soon 👀',
+          backgroundColor: '#e89048',
+          textColor: '#000000',
+
+          isCloseable: false,
         },
       }),
 };
