@@ -161,8 +161,8 @@ const config = {
         announcementBar: {
           id: 'achtung',
           content:
-              '🥽 English Translations coming Soon 👀',
-          backgroundColor: '#e89048',
+              '🥽 In the next few days, we are updating the Wiki. Please inform us, when we make mistakes ;3 👀',
+          backgroundColor: '#909f15',
           textColor: '#000000',
 
           isCloseable: false,
