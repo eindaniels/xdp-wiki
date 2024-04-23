@@ -93,7 +93,7 @@ const config = {
             },
             {
               type: 'docsVersionDropdown',
-              position: 'left',
+              position: 'right',
               dropdownActiveClassDisabled: true,
             },
             {to: '/blog', label: 'Blogs', position: 'left'},
