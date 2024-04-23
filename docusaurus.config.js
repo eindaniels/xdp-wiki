@@ -191,7 +191,3 @@ const config = {
 };
 
 module.exports = config;
-
-import { inject } from '@vercel/analytics';
-
-inject();
