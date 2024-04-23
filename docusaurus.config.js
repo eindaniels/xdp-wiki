@@ -47,7 +47,7 @@ const config = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           lastVersion: 'current',
-          versions: {
+          "1.0.0": {
             current: {
               label: '1.0.0',
               path: '1.0.0',
