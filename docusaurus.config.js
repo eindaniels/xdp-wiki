@@ -91,6 +91,12 @@ const config = {
               position: 'left',
               label: 'Wiki',
             },
+            {
+              type: 'docsVersionDropdown',
+              position: 'left',
+              dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
+              dropdownActiveClassDisabled: true,
+            },
             {to: '/blog', label: 'Blogs', position: 'left'},
             //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
             //{to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
