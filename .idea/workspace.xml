@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="v2">
-      <change afterPath="$PROJECT_DIR$/docs/versioned_docs/version-1.0/geschichte-des-serves.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/versioned_docs/version-1.0/intro.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/versioned_docs/version-1.0/mitglieder-biografien.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/versioned_docs/version-1.1/geschichte-des-serves.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/versioned_docs/version-1.1/intro.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/versioned_docs/version-1.1/mitglieder-biografien.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/versioned_docs/version-1.1/mods.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/versioned_docs/version-1.1/origins.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versions.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="version testing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +112,7 @@
       <workItem from="1707559781657" duration="2478000" />
       <workItem from="1707603618288" duration="634000" />
       <workItem from="1713779087183" duration="597000" />
-      <workItem from="1713891723255" duration="4154000" />
+      <workItem from="1713891723255" duration="4465000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -246,7 +234,39 @@
       <option name="project" value="LOCAL" />
       <updated>1713894475718</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="version testing">
+      <option name="closed" value="true" />
+      <created>1713896255847</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713896255847</updated>
+    </task>
+    <task id="LOCAL-00017" summary="version testing">
+      <option name="closed" value="true" />
+      <created>1713896376269</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713896376269</updated>
+    </task>
+    <task id="LOCAL-00018" summary="version testing">
+      <option name="closed" value="true" />
+      <created>1713896472323</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713896472324</updated>
+    </task>
+    <task id="LOCAL-00019" summary="version testing">
+      <option name="closed" value="true" />
+      <created>1713896519239</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713896519239</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +295,7 @@
     <MESSAGE value="Changes" />
     <MESSAGE value="new colors" />
     <MESSAGE value="v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="v2" />
+    <MESSAGE value="version testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="version testing" />
   </component>
 </project>
