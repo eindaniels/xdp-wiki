@@ -46,6 +46,13 @@ const config = {
               'https://github.com/xdalul/xdp-wiki/tree/master/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
+          lastVersion: 'current',
+          versions: {
+            current: {
+              label: '1.0',
+              path: '1.0',
+            },
+          },
         },
         blog: {
           showReadingTime: true,
