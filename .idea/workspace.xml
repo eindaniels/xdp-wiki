@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="anouncement">
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="new colors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/authors.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +107,7 @@
       <workItem from="1707559781657" duration="2478000" />
       <workItem from="1707603618288" duration="634000" />
       <workItem from="1713779087183" duration="597000" />
-      <workItem from="1713891723255" duration="843000" />
+      <workItem from="1713891723255" duration="2358000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -196,7 +197,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707604193382</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new colors">
+      <option name="closed" value="true" />
+      <created>1713892664575</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713892664575</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new colors">
+      <option name="closed" value="true" />
+      <created>1713892839506</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713892839506</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +240,7 @@
     <MESSAGE value="fix" />
     <MESSAGE value="Blog" />
     <MESSAGE value="Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+    <MESSAGE value="new colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="new colors" />
   </component>
 </project>
