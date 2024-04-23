@@ -1,9 +1,11 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+
 const {themes} = require('prism-react-renderer');
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
+
 
 
 /** @type {import('@docusaurus/types').Config} */
@@ -189,3 +191,20 @@ const config = {
 };
 
 module.exports = config;
+
+
+import { Analytics } from '@vercel/analytics/react';
+
+export default function RootLayout({ children }) {
+  return (
+      <html lang="en">
+      <head>
+        <title>Next.js</title>
+      </head>
+      <body>
+      {children}
+      <Analytics />
+      </body>
+      </html>
+  );
+}
