@@ -94,7 +94,6 @@ const config = {
             {
               type: 'docsVersionDropdown',
               position: 'left',
-              dropdownItemsAfter: [{to: '/versions', label: 'All versions'}],
               dropdownActiveClassDisabled: true,
             },
             {to: '/blog', label: 'Blogs', position: 'left'},
