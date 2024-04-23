@@ -161,11 +161,11 @@ const config = {
         announcementBar: {
           id: 'achtung',
           content:
-              '🥽 In the next few days, we are updating the Wiki. Please inform us, when we make mistakes ;3 👀',
-          backgroundColor: '#909f15',
+              'In the next few days, we are updating the Wiki. Please inform us, when we make mistakes',
+          backgroundColor: '#c0b07f',
           textColor: '#000000',
 
-          isCloseable: false,
+          isCloseable: true,
         },
       }),
 };
