@@ -52,7 +52,7 @@ const config = {
               label: '1.0',
               path: '1.0',
             },
-            1.1: {
+            next: {
               label: '1.1',
               path: '1.1',
             }
