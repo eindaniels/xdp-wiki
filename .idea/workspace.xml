@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="typos + version change" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="version sidebar fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +138,7 @@
       <workItem from="1713779087183" duration="597000" />
       <workItem from="1713891723255" duration="8766000" />
       <workItem from="1713982402471" duration="236000" />
-      <workItem from="1713982817665" duration="3082000" />
+      <workItem from="1713982817665" duration="3729000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -458,7 +460,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713985883690</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="version sidebar fix">
+      <option name="closed" value="true" />
+      <created>1713986149287</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1713986149287</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,6 +500,7 @@
     <MESSAGE value="version testing" />
     <MESSAGE value="admin feedback vorbereiten" />
     <MESSAGE value="typos + version change" />
-    <option name="LAST_COMMIT_MESSAGE" value="typos + version change" />
+    <MESSAGE value="version sidebar fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="version sidebar fix" />
   </component>
 </project>
