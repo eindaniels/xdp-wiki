@@ -11,7 +11,7 @@ const darkCodeTheme = themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'xdP Wiki',
-  tagline: 'xdalul\'s Projekte',
+  tagline: '',
   // favicon: 'img/logo.png',
 
   // Set the production url of your site here
