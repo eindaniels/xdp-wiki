@@ -50,9 +50,9 @@ const config = {
           showLastUpdateTime: true,
           lastVersion: 'current',
           versions: {
-            "1.0.0": {
-              label: '1.0.0',
-              path: '1.0.0',
+            "prev1": {
+              label: 'Pre 1.0.0',
+              path: 'prev1',
               banner: 'unmaintained',
             },
             "1.1.0": {
