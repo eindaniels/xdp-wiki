@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="version testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/geschichte-des-serves.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/geschichte-des-serves.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/mitglieder-biografien.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/mitglieder-biografien.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/mods.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/mods/another furniture.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/mods/origins.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/origins.mdx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="KEEP" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "xdalul"
+  }
+}]]></component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
       <list>
@@ -29,6 +41,12 @@
       </list>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xdalul/xdp-wiki.git",
+    "accountId": "1d54cc60-7095-454a-b475-a41f54240f9a"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/docusaurus.config.js" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -43,23 +61,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/dalol/WebstormProjects/xdp-wiki/docs/versioned_docs/version-1.1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.docusaurus.executor": "Run",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalol/WebstormProjects/xdp-wiki/docs/versioned_docs/version-1.1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.docusaurus.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs\versioned_docs\version-1.1" />
@@ -101,6 +119,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -118,7 +143,9 @@
       <workItem from="1707559781657" duration="2478000" />
       <workItem from="1707603618288" duration="634000" />
       <workItem from="1713779087183" duration="597000" />
-      <workItem from="1713891723255" duration="8050000" />
+      <workItem from="1713891723255" duration="8766000" />
+      <workItem from="1713982402471" duration="236000" />
+      <workItem from="1713982817665" duration="2422000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -416,7 +443,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713899618442</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="version testing">
+      <option name="closed" value="true" />
+      <created>1713900286725</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1713900286727</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

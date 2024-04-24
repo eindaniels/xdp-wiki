@@ -181,7 +181,7 @@ const config = {
         announcementBar: {
           id: 'achtung',
           content:
-              'In the next few days, we are updating the Wiki. Please inform us, when we make mistakes',
+              'Wir sind gerade am erneuern des Wikis. Feedback wäre sehr nett von euch.',
           backgroundColor: '#c0b07f',
           textColor: '#000000',
 
