@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Test">
-      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/comforts.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/farmers-delight.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/origins.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Mods Category">
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/comforts.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/comforts.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/farmers-delight.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/farmers-delight.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/origins.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/origins.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +142,7 @@
       <workItem from="1713891723255" duration="8766000" />
       <workItem from="1713982402471" duration="236000" />
       <workItem from="1713982817665" duration="4690000" />
-      <workItem from="1714056251689" duration="2261000" />
+      <workItem from="1714056251689" duration="2587000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -490,7 +488,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713986882297</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Mods Category">
+      <option name="closed" value="true" />
+      <created>1714058719888</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1714058719889</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,6 +531,7 @@
     <MESSAGE value="version sidebar fix" />
     <MESSAGE value="up to date ;3" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Mods Category" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mods Category" />
   </component>
 </project>
