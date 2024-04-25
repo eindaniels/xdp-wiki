@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="version sidebar fix">
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Test">
+      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/comforts.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/farmers-delight.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mods/origins.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,12 +25,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="KEEP" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "xdalul"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xdalul&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
       <list>
@@ -34,12 +38,12 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/xdalul/xdp-wiki.git",
-    "accountId": "1d54cc60-7095-454a-b475-a41f54240f9a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xdalul/xdp-wiki.git&quot;,
+    &quot;accountId&quot;: &quot;1d54cc60-7095-454a-b475-a41f54240f9a&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/docusaurus.config.js" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -60,7 +64,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalol/WebstormProjects/xdp-wiki/docs/versioned_docs/version-1.1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalol/WebstormProjects/xdp-wiki/versioned_docs/version-1.1.0&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -73,6 +77,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\versioned_docs\version-1.1.0" />
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs\versioned_docs\version-1.1" />
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs\versioned_docs\version-1.0" />
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs" />
@@ -138,7 +143,8 @@
       <workItem from="1713779087183" duration="597000" />
       <workItem from="1713891723255" duration="8766000" />
       <workItem from="1713982402471" duration="236000" />
-      <workItem from="1713982817665" duration="3729000" />
+      <workItem from="1713982817665" duration="4690000" />
+      <workItem from="1714056251689" duration="2261000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -468,7 +474,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713986149287</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="up to date ;3">
+      <option name="closed" value="true" />
+      <created>1713986655376</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1713986655376</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Test">
+      <option name="closed" value="true" />
+      <created>1713986882296</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1713986882297</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,6 +523,8 @@
     <MESSAGE value="admin feedback vorbereiten" />
     <MESSAGE value="typos + version change" />
     <MESSAGE value="version sidebar fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="version sidebar fix" />
+    <MESSAGE value="up to date ;3" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>

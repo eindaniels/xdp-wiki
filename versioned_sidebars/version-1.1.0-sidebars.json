@@ -3,7 +3,19 @@
     "intro",
     "geschichte-des-serves",
     "mitglieder-biografien",
-    "mods",
-    "origins"
+    "origins",
+    {
+      "type": "category",
+      "label": "Wichtige Mods",
+      "link": {
+        "type": "generated-index"
+      },
+      "collapsed": false,
+      "items": [
+        "comforts",
+        "farmers-delight",
+        "origins"
+      ]
+    }
   ]
 }
