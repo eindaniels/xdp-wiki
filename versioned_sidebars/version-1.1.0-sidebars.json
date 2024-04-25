@@ -12,9 +12,9 @@
       },
       "collapsed": false,
       "items": [
-        "origins",
-        "farmers-delight",
-        "comforts"
+        "mods/comforts",
+        "mods/farmers-delight",
+        "mods/origins"
       ]
     }
   ]
