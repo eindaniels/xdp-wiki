@@ -30,7 +30,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.2.1",
-    "@docusaurus/types": "3.2.1"
+    "@docusaurus/types": "3.2.1",
+    "@docusaurus/plugin-ideal-image": "3.2.1"
   },
   "browserslist": {
     "production": [

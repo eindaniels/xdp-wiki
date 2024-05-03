@@ -4,15 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Mods Category">
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="project-downloads.mdx added">
+      <change afterPath="$PROJECT_DIR$/src/components/CraftattackDownloads.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RealmDownload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/project-downloads.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_sidebars/version-1.1.0-sidebars.json" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_sidebars/version-1.1.0-sidebars.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -70,6 +81,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;npm.docusaurus.executor&quot;: &quot;Run&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -81,6 +93,7 @@
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\src\components" />
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki" />
     </key>
   </component>
@@ -142,15 +155,9 @@
       <workItem from="1713891723255" duration="8766000" />
       <workItem from="1713982402471" duration="236000" />
       <workItem from="1713982817665" duration="4690000" />
-      <workItem from="1714056251689" duration="3744000" />
-    </task>
-    <task id="LOCAL-00002" summary="commit 1">
-      <option name="closed" value="true" />
-      <created>1705600607028</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1705600607028</updated>
+      <workItem from="1714056251689" duration="4011000" />
+      <workItem from="1714771871381" duration="905000" />
+      <workItem from="1714772803216" duration="3935000" />
     </task>
     <task id="LOCAL-00003" summary="dropdown now right">
       <option name="closed" value="true" />
@@ -536,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714059376583</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Docusaurus Update 3.2.1">
+      <option name="closed" value="true" />
+      <created>1714060083723</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1714060083724</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,6 +587,8 @@
     <MESSAGE value="up to date ;3" />
     <MESSAGE value="Test" />
     <MESSAGE value="Mods Category" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mods Category" />
+    <MESSAGE value="Docusaurus Update 3.2.1" />
+    <MESSAGE value="project-downloads.mdx added" />
+    <option name="LAST_COMMIT_MESSAGE" value="project-downloads.mdx added" />
   </component>
 </project>
