@@ -10,6 +10,15 @@ const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  plugins: [
+    [
+      'vercel-analytics',
+      {
+        debug: true,
+        mode: 'auto',
+      },
+    ],
+  ],
   title: 'xdP Wiki',
   tagline: '',
   // favicon: 'img/logo.png',

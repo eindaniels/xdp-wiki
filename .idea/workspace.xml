@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="project-downloads.mdx added">
-      <change afterPath="$PROJECT_DIR$/src/components/CraftattackDownloads.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RealmDownload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/project-downloads.mdx" afterDir="false" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Vercel Analytics test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versioned_sidebars/version-1.1.0-sidebars.json" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_sidebars/version-1.1.0-sidebars.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,15 +154,8 @@
       <workItem from="1713982817665" duration="4690000" />
       <workItem from="1714056251689" duration="4011000" />
       <workItem from="1714771871381" duration="905000" />
-      <workItem from="1714772803216" duration="3935000" />
-    </task>
-    <task id="LOCAL-00003" summary="dropdown now right">
-      <option name="closed" value="true" />
-      <created>1705600900569</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1705600900569</updated>
+      <workItem from="1714772803216" duration="4145000" />
+      <workItem from="1715181510037" duration="1375000" />
     </task>
     <task id="LOCAL-00004" summary="removed any CCA Stuff">
       <option name="closed" value="true" />
@@ -551,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714060083724</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="project-downloads.mdx added">
+      <option name="closed" value="true" />
+      <created>1714776880312</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1714776880313</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -589,6 +587,7 @@
     <MESSAGE value="Mods Category" />
     <MESSAGE value="Docusaurus Update 3.2.1" />
     <MESSAGE value="project-downloads.mdx added" />
-    <option name="LAST_COMMIT_MESSAGE" value="project-downloads.mdx added" />
+    <MESSAGE value="Vercel Analytics test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vercel Analytics test" />
   </component>
 </project>
