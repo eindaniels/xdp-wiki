@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Vercel Analytics test">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Origin End Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,32 @@
     &quot;assignee&quot;: &quot;xdalul&quot;
   }
 }</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1715985882" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1715985881" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
       <list>
@@ -153,14 +179,6 @@
       <workItem from="1714771871381" duration="905000" />
       <workItem from="1714772803216" duration="4145000" />
       <workItem from="1715181510037" duration="1888000" />
-    </task>
-    <task id="LOCAL-00006" summary="removed any CCA Stuff">
-      <option name="closed" value="true" />
-      <created>1707397198291</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1707397198291</updated>
     </task>
     <task id="LOCAL-00007" summary="fancy stuff">
       <option name="closed" value="true" />
@@ -546,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715183336114</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Origin End Update">
+      <option name="closed" value="true" />
+      <created>1715986057719</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1715986057720</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,6 +611,7 @@
     <MESSAGE value="Docusaurus Update 3.2.1" />
     <MESSAGE value="project-downloads.mdx added" />
     <MESSAGE value="Vercel Analytics test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vercel Analytics test" />
+    <MESSAGE value="Origin End Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Origin End Update" />
   </component>
 </project>
