@@ -59,16 +59,11 @@ const config = {
           showLastUpdateTime: true,
           lastVersion: 'current',
           versions: {
-            "prev1": {
-              label: 'Pre 1.0.0',
-              path: 'prev1',
+            "1.0.0": {
+              label: '1.0.0',
+              path: '1.0.0',
               banner: 'unmaintained',
             },
-            "1.1.0": {
-              label: '1.1.0',
-              path: '1.1.0',
-              banner: 'unreleased',
-            }
           },
         },
         blog: {
