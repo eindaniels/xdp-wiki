@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Name Change + Domain Change" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Ready to Release Update">
+      <change afterPath="$PROJECT_DIR$/docs/project-downloads.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.1.0/project-downloads.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/project-downloads.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-prev1/geschichte-des-serves.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.0.0/geschichte-des-serves.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-prev1/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.0.0/intro.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-prev1/mitglieder-biografien.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.0.0/mitglieder-biografien.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_sidebars/version-prev1-sidebars.json" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_sidebars/version-1.0.0-sidebars.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/versions.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,30 +96,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalol/WebstormProjects/xdp-wiki/versioned_docs/version-1.1.0&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.docusaurus.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/dalol/WebstormProjects/xdp-wiki/docs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.docusaurus.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs" />
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\versioned_docs\version-1.1.0" />
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs\versioned_docs\version-1.1" />
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs\versioned_docs\version-1.0" />
-      <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\src\components" />
@@ -177,14 +188,6 @@
       <workItem from="1714771871381" duration="905000" />
       <workItem from="1714772803216" duration="4145000" />
       <workItem from="1715181510037" duration="1888000" />
-    </task>
-    <task id="LOCAL-00009" summary="Blog">
-      <option name="closed" value="true" />
-      <created>1707564078121</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1707564078122</updated>
     </task>
     <task id="LOCAL-00010" summary="Changes">
       <option name="closed" value="true" />
@@ -570,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715986650208</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Ready to Release Update">
+      <option name="closed" value="true" />
+      <created>1715987262982</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1715987262982</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,6 +622,7 @@
     <MESSAGE value="Vercel Analytics test" />
     <MESSAGE value="Origin End Update" />
     <MESSAGE value="Name Change + Domain Change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Name Change + Domain Change" />
+    <MESSAGE value="Ready to Release Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready to Release Update" />
   </component>
 </project>
