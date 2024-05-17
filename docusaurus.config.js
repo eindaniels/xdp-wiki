@@ -92,7 +92,7 @@ const config = {
         // Replace with your project's social card
         // image: 'img/banner.png',
         navbar: {
-          title: 'xdP Wiki',
+          title: 'Wiki',
           // logo: {
           //   alt: 'CA Logo',
           //   src: 'img/logo.png',
