@@ -64,7 +64,7 @@ const config = {
               path: '1.0.0',
               banner: 'unmaintained',
             },
-            "next": {
+            "current": {
               label: '1.1.0',
             }
           },
