@@ -64,6 +64,9 @@ const config = {
               path: '1.0.0',
               banner: 'unmaintained',
             },
+            "next": {
+              label: '1.1.0',
+            }
           },
         },
         blog: {

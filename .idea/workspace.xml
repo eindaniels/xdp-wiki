@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Ready to Release Update">
-      <change afterPath="$PROJECT_DIR$/docs/project-downloads.mdx" afterDir="false" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.1.0/project-downloads.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.1.0/project-downloads.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versioned_docs/version-prev1/geschichte-des-serves.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.0.0/geschichte-des-serves.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versioned_docs/version-prev1/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.0.0/intro.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versioned_docs/version-prev1/mitglieder-biografien.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.0.0/mitglieder-biografien.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versioned_sidebars/version-prev1-sidebars.json" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_sidebars/version-1.0.0-sidebars.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/versions.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,12 +67,22 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/xdalul/xdp-wiki.git&quot;,
-    &quot;accountId&quot;: &quot;1d54cc60-7095-454a-b475-a41f54240f9a&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/xdalul/xdp-wiki.git",
+    "accountId": "1d54cc60-7095-454a-b475-a41f54240f9a"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "xdalul",
+    "repository": "xdp-wiki"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/docusaurus.config.js" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -100,7 +101,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "#15 on dev",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/dalol/WebstormProjects/xdp-wiki/docs",
     "node.js.detected.package.eslint": "true",
@@ -188,14 +189,6 @@
       <workItem from="1714771871381" duration="905000" />
       <workItem from="1714772803216" duration="4145000" />
       <workItem from="1715181510037" duration="1888000" />
-    </task>
-    <task id="LOCAL-00010" summary="Changes">
-      <option name="closed" value="true" />
-      <created>1707603822269</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1707603822269</updated>
     </task>
     <task id="LOCAL-00011" summary="Changes">
       <option name="closed" value="true" />
@@ -581,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715987262982</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Removed Announcement bar">
+      <option name="closed" value="true" />
+      <created>1715987474113</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1715987474113</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,6 +624,7 @@
     <MESSAGE value="Origin End Update" />
     <MESSAGE value="Name Change + Domain Change" />
     <MESSAGE value="Ready to Release Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ready to Release Update" />
+    <MESSAGE value="Removed Announcement bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Announcement bar" />
   </component>
 </project>
