@@ -1,19 +1,30 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+
 const {themes} = require('prism-react-renderer');
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
 
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'xdP Wiki',
-  tagline: 'xdalul\'s Projekte',
+  plugins: [
+    [
+      'vercel-analytics',
+      {
+        debug: true,
+        mode: 'auto',
+      },
+    ],
+  ],
+  title: 'Wiki',
+  tagline: '',
   // favicon: 'img/logo.png',
 
   // Set the production url of your site here
-  url: 'https://wiki.craftattack.tk',
+  url: 'https://wiki.aresmc.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -46,6 +57,17 @@ const config = {
               'https://github.com/xdalul/xdp-wiki/tree/master/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
+          lastVersion: 'current',
+          versions: {
+            "1.0.0": {
+              label: '1.0.0',
+              path: '1.0.0',
+              banner: 'unmaintained', 
+            },
+            "current": {
+              label: '1.1.0',
+            }
+          },
         },
         blog: {
           showReadingTime: true,
@@ -68,7 +90,7 @@ const config = {
         // Replace with your project's social card
         // image: 'img/banner.png',
         navbar: {
-          title: 'xdP Wiki',
+          title: 'Wiki',
           // logo: {
           //   alt: 'CA Logo',
           //   src: 'img/logo.png',
@@ -79,6 +101,11 @@ const config = {
               sidebarId: 'tutorialSidebar',
               position: 'left',
               label: 'Wiki',
+            },
+            {
+              type: 'docsVersionDropdown',
+              position: 'right',
+              dropdownActiveClassDisabled: true,
             },
             {to: '/blog', label: 'Blogs', position: 'left'},
             //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
@@ -158,15 +185,15 @@ const config = {
 
           //... other Algolia params
         },
-        announcementBar: {
-          id: 'achtung',
-          content:
-              'Wir sind gerade am erneuern des Wikis. Bald ist das erste Update draussen ;3.',
-          backgroundColor: '#c0b07f',
-          textColor: '#000000',
+        //announcementBar: {
+          //id: 'achtung',
+          //content:
+              //'Wir sind gerade am erneuern des Wikis. Feedback wäre sehr nett von euch.',
+          //backgroundColor: '#c0b07f',
+          //textColor: '#000000',
 
-          isCloseable: true,
-        },
+          //isCloseable: true,
+        //},
       }),
 };
 
