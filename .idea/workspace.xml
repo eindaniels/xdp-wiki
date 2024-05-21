@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="better Announcement">
-      <change afterPath="$PROJECT_DIR$/src/components/OriginsDownload.js" afterDir="false" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/project-downloads.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/project-downloads.mdx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CraftattackDownloads.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CraftattackDownloads.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/OriginsDownload.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/OriginsDownload.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/RealmDownload.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RealmDownload.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -234,7 +231,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715184655237</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Origins Download added + Translation Changes">
+      <option name="closed" value="true" />
+      <created>1716285044629</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285044629</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix">
+      <option name="closed" value="true" />
+      <created>1716285328289</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285328289</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +278,8 @@
     <MESSAGE value="Announcement" />
     <MESSAGE value="better Announcement" />
     <MESSAGE value="Fixed Name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Name" />
+    <MESSAGE value="Origins Download added + Translation Changes" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
   </component>
 </project>
