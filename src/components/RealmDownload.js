@@ -8,8 +8,9 @@ const Playgrounds = [
     {
         name: "Survival | Events Realm",
         url: "https://www.mediafire.com/file/2a3dlll65jhozqr/archive-2021-12-24T220447%252B0100.tar/file",
+        urlTS: "https://modrinth.com/modpack/xdaluls-origins",
         description: (
-            <Translate id="playground.codesandbox.description">
+            <Translate id="realm.download.description">
                 Der Survival Events Realm war das erste richtige Minecraft ding
                 von mir, wo auch die meisten dazu kamen und
                 bis heute geblieben sind (Wenige von ihnen xd)
@@ -39,6 +40,7 @@ const Playgrounds = [
     //}
 ]
 
+
 function PlaygroundCard({ name, image, url, urlTS, description }) {
     return (
         <div className="col col--6 margin-bottom--lg">
@@ -50,12 +52,15 @@ function PlaygroundCard({ name, image, url, urlTS, description }) {
                 <div className="card__footer">
                     <div style={{ textAlign: "center" }}>
                         <b>
-                            <Translate id="playground.tryItButton">Minecraft 1.18</Translate>
+                            <Translate id="playground.tryItButton">Craftattack 3 → 1.19.2 ; Craftattack 4 → 1.20.2</Translate>
                         </b>
                     </div>
                     <div className="button-group button-group--block">
                         <Link className="button button--secondary" to={url}>
-                            Klicke für den Download
+                            Welt Download
+                        </Link>
+                        <Link className="button button--secondary" to={urlTS}>
+                            Modpack
                         </Link>
                     </div>
                 </div>
