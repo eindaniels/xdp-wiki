@@ -10,7 +10,7 @@ const Playgrounds = [
         url: "https://www.mediafire.com/file/4nx4nm637m1cqhd/CA3_Welt.zip/file",
         urlTS: "https://www.mediafire.com/file/tccs91l7e24ajc5/CA_3_Doomsday.zip/file",
         description: (
-            <Translate id="playground.codesandbox.description">
+            <Translate id="craftattack.download.one.description">
                 Der 3. Teil von Craftattack bereits, was I guess das
                 normalste war von allen bisher es waren Ok leute aktiv
                 ausser dass wir paar Fehler bei den Datapacks gemacht haben, aber naja
@@ -22,7 +22,7 @@ const Playgrounds = [
         url: "https://www.mediafire.com/file/6fveu59uzr7bwh6/CA_4_World.zip/file",
         urlTS: "https://www.mediafire.com/file/dc34xwti4rnldms/CA_4_World_Doomsday.zip/file",
         description: (
-            <Translate id="playground.codesandbox.description">
+            <Translate id="craftattack.download.two.description">
                 Naja sind wir schon beim vierten... Hier passierte sehr
                 viel mit rum experimentieren von Features und anderem
                 z.B. es gab den Hub, ein Mayor Feature, Ramen und viele NPCs.
