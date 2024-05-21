@@ -8,6 +8,7 @@ const Playgrounds = [
     {
         name: "Origins #1",
         url: "https://www.mediafire.com/file/hv6lvdzgohbzid3/origins-world.zip/file",
+        urlTS: "https://modrinth.com/modpack/xdaluls-origins",
         description: (
             <Translate id="origins.download.description">
                 Erstes aktives Minecraft Mod Projekt von uns, mit der Hauptmod
@@ -50,12 +51,15 @@ function PlaygroundCard({ name, image, url, urlTS, description }) {
                 <div className="card__footer">
                     <div style={{ textAlign: "center" }}>
                         <b>
-                            <Translate id="playground.tryItButton">Minecraft 1.18</Translate>
+                            <Translate id="playground.tryItButton">Minecraft 1.20.1</Translate>
                         </b>
                     </div>
                     <div className="button-group button-group--block">
                         <Link className="button button--secondary" to={url}>
-                            Klicke für den Download
+                            Welt Download
+                        </Link>
+                        <Link className="button button--secondary" to={urlTS}>
+                            Modpack
                         </Link>
                     </div>
                 </div>
