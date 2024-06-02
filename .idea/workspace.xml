@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Fix" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="hopefuly fixed it">
+      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/geschichte-des-serves.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/intro.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/mitglieder-biografien.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/project-downloads.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/versioned_sidebars/version-1.2.0-sidebars.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/versions.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +28,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="KEEP" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "xdalul"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xdalul&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
@@ -35,12 +44,12 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/xdalul/xdp-wiki.git",
-    "accountId": "b87019a2-5bdb-4a01-adac-d452b0390943"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xdalul/xdp-wiki.git&quot;,
+    &quot;accountId&quot;: &quot;b87019a2-5bdb-4a01-adac-d452b0390943&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/docusaurus.config.js" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -61,6 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/dalol/WebstormProjects/xdp-wiki/versioned_docs/version-1.2.0",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,7 +82,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\versioned_docs\version-1.2.0" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\versioned_docs\version-1.2.0" />
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\src\components" />
     </key>
   </component>
@@ -130,6 +144,7 @@
       <workItem from="1707395653088" duration="2373000" />
       <workItem from="1707559781657" duration="2478000" />
       <workItem from="1707603618288" duration="634000" />
+      <workItem from="1717356026506" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -259,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716285600370</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="hopefuly fixed it">
+      <option name="closed" value="true" />
+      <created>1716285766152</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285766152</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +315,7 @@
     <MESSAGE value="Fixed Name" />
     <MESSAGE value="Origins Download added + Translation Changes" />
     <MESSAGE value="Fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
+    <MESSAGE value="hopefuly fixed it" />
+    <option name="LAST_COMMIT_MESSAGE" value="hopefuly fixed it" />
   </component>
 </project>
