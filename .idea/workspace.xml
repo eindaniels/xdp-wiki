@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="hopefuly fixed it">
-      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/geschichte-des-serves.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/intro.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/mitglieder-biografien.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/project-downloads.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/versioned_sidebars/version-1.2.0-sidebars.json" afterDir="false" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Sortierung der Versions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.2.0/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/intro.mdx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,23 +58,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/dalol/WebstormProjects/xdp-wiki/versioned_docs/version-1.2.0",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.docusaurus.executor": "Run",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalol/WebstormProjects/xdp-wiki/versioned_docs/version-1.2.0&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.docusaurus.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\versioned_docs\version-1.2.0" />
@@ -144,7 +138,9 @@
       <workItem from="1707395653088" duration="2373000" />
       <workItem from="1707559781657" duration="2478000" />
       <workItem from="1707603618288" duration="634000" />
-      <workItem from="1717356026506" duration="385000" />
+      <workItem from="1717356026506" duration="826000" />
+      <workItem from="1717436203664" duration="60000" />
+      <workItem from="1718449059478" duration="380000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -282,7 +278,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716285766152</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="new version (no new things added still)">
+      <option name="closed" value="true" />
+      <created>1717356537877</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717356537877</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Sortierung der Versions">
+      <option name="closed" value="true" />
+      <created>1717356701769</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717356701769</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +328,8 @@
     <MESSAGE value="Origins Download added + Translation Changes" />
     <MESSAGE value="Fix" />
     <MESSAGE value="hopefuly fixed it" />
-    <option name="LAST_COMMIT_MESSAGE" value="hopefuly fixed it" />
+    <MESSAGE value="new version (no new things added still)" />
+    <MESSAGE value="Sortierung der Versions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sortierung der Versions" />
   </component>
 </project>
