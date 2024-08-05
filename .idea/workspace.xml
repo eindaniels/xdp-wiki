@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Sortierung der Versions">
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="intro.mdx fix?">
+      <change afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/craftattack-v/test.mdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.2.0/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_docs/version-1.2.0/intro.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_sidebars/version-1.2.0-sidebars.json" beforeDir="false" afterPath="$PROJECT_DIR$/versioned_sidebars/version-1.2.0-sidebars.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +31,29 @@
 }</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1722786472" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1722786471" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
@@ -62,7 +86,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/dalol/WebstormProjects/xdp-wiki/versioned_docs/version-1.2.0&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -141,6 +165,7 @@
       <workItem from="1717356026506" duration="826000" />
       <workItem from="1717436203664" duration="60000" />
       <workItem from="1718449059478" duration="380000" />
+      <workItem from="1722887999886" duration="745000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -294,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717356701769</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="intro.mdx fix?">
+      <option name="closed" value="true" />
+      <created>1722786756980</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722786756980</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,6 +363,7 @@
     <MESSAGE value="hopefuly fixed it" />
     <MESSAGE value="new version (no new things added still)" />
     <MESSAGE value="Sortierung der Versions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sortierung der Versions" />
+    <MESSAGE value="intro.mdx fix?" />
+    <option name="LAST_COMMIT_MESSAGE" value="intro.mdx fix?" />
   </component>
 </project>

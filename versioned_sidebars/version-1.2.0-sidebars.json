@@ -3,6 +3,16 @@
     "intro",
     "geschichte-des-serves",
     "mitglieder-biografien",
-    "project-downloads"
+    "project-downloads",
+    {
+      "type": "category",
+      "label": "Craftattack 5",
+      "link": {
+        "type": "generated-index"
+      },
+      "items": [
+        "craftattack-v/test"
+      ]
+    }
   ]
-}
+  }
