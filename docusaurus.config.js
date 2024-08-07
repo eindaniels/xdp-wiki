@@ -49,28 +49,27 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-            docs: {
-              sidebarPath: require.resolve('./sidebars.js'),
-              // Please change this to your repo.
-              // Remove this to remove the "edit this page" links.
-              editUrl:
-                  'https://github.com/xdalul/xdp-wiki/tree/master/',
-              showLastUpdateAuthor: true,
-              showLastUpdateTime: true,
-              blog: {
-                showReadingTime: true,
-                // Please change this to your repo.
-                // Remove this to remove the "edit this page" links.
-                editUrl:
-                    'https://github.com/xdalul/xdp-wiki/tree/master/',
-                blogSidebarCount: 15,
-              },
-              theme: {
-                customCss: require.resolve('./src/css/custom.css'),
-              },
-            },
-          }
-      ),
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+              'https://github.com/xdalul/xdp-wiki/tree/master/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+        },
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+              'https://github.com/xdalul/xdp-wiki/tree/master/',
+          blogSidebarCount: 15,
+        },
+        theme: {
+          customCss: require.resolve('./src/css/custom.css'),
+        },
+      }),
     ],
   ],
 
@@ -138,7 +137,7 @@ const config = {
               ],
             },
           ],
-          copyright: `Copyright © 2022-2024 xdalul. Built with Docusaurus.`,
+          copyright: `Copyright © 2022-2024 xdP. Built with Docusaurus.`,
         },
         prism: {
           theme: lightCodeTheme,
