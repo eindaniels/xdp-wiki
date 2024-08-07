@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Sortierung der Versions" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="cleared versions too + intro.mdx changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -291,7 +291,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717356701769</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1723062866812</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723062866812</updated>
+    </task>
+    <task id="LOCAL-00021" summary="cleared versions too + intro.mdx changes">
+      <option name="closed" value="true" />
+      <created>1723063049452</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723063049452</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +333,6 @@
     <MESSAGE value="fancy stuff" />
     <MESSAGE value="fix" />
     <MESSAGE value="Blog" />
-    <MESSAGE value="Changes" />
     <MESSAGE value="anouncement" />
     <MESSAGE value="Announcement" />
     <MESSAGE value="better Announcement" />
@@ -327,6 +342,8 @@
     <MESSAGE value="hopefuly fixed it" />
     <MESSAGE value="new version (no new things added still)" />
     <MESSAGE value="Sortierung der Versions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sortierung der Versions" />
+    <MESSAGE value="Changes" />
+    <MESSAGE value="cleared versions too + intro.mdx changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleared versions too + intro.mdx changes" />
   </component>
 </project>
