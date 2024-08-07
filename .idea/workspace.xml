@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Namen Change :3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/geschichte-des-serves.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/geschichte-des-serves.mdx" afterDir="false" />
-    </list>
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Kapitel 9 Teil 5 &amp; 6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -318,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723063166083</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Kapitel 9 Teil 5 &amp; 6">
+      <option name="closed" value="true" />
+      <created>1723066946022</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1723066946022</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +361,7 @@
     <MESSAGE value="Changes" />
     <MESSAGE value="cleared versions too + intro.mdx changes" />
     <MESSAGE value="Namen Change :3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Namen Change :3" />
+    <MESSAGE value="Kapitel 9 Teil 5 &amp; 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kapitel 9 Teil 5 &amp; 6" />
   </component>
 </project>
