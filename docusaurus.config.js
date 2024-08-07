@@ -49,43 +49,28 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-              'https://github.com/xdalul/xdp-wiki/tree/master/',
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
-          lastVersion: 'current',
-          versions: {
-            "1.2.0": {
-              label: '1.2.0',
-              path: '1.2.0',
-              banner: 'unreleased',
+            docs: {
+              sidebarPath: require.resolve('./sidebars.js'),
+              // Please change this to your repo.
+              // Remove this to remove the "edit this page" links.
+              editUrl:
+                  'https://github.com/xdalul/xdp-wiki/tree/master/',
+              showLastUpdateAuthor: true,
+              showLastUpdateTime: true,
+              blog: {
+                showReadingTime: true,
+                // Please change this to your repo.
+                // Remove this to remove the "edit this page" links.
+                editUrl:
+                    'https://github.com/xdalul/xdp-wiki/tree/master/',
+                blogSidebarCount: 15,
+              },
+              theme: {
+                customCss: require.resolve('./src/css/custom.css'),
+              },
             },
-            "1.0.0": {
-              label: '1.0.0',
-              path: '1.0.0',
-              banner: 'unmaintained', 
-            },
-            "current": {
-              label: '1.1.0',
-            }
-          },
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-              'https://github.com/xdalul/xdp-wiki/tree/master/',
-          blogSidebarCount: 15,
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      }),
+          }
+      ),
     ],
   ],
 
@@ -106,11 +91,6 @@ const config = {
               sidebarId: 'tutorialSidebar',
               position: 'left',
               label: 'Wiki',
-            },
-            {
-              type: 'docsVersionDropdown',
-              position: 'right',
-              dropdownActiveClassDisabled: true,
             },
             {to: '/blog', label: 'Blogs', position: 'left'},
             //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
@@ -158,7 +138,7 @@ const config = {
               ],
             },
           ],
-          copyright: `Copyright © 2022-2024 xdP. Built with Docusaurus.`,
+          copyright: `Copyright © 2022-2024 xdalul. Built with Docusaurus.`,
         },
         prism: {
           theme: lightCodeTheme,
