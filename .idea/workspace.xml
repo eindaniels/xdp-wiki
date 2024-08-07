@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="better Announcement" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="fixed everything + cleared version folders">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,11 +15,47 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="update/remove-versions" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="KEEP" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;xdalul&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1723060926" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="update/remove-versions" />
+                    <option name="lastUsedInstant" value="1723058535" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1722786472" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
@@ -26,6 +64,12 @@
       </list>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/xdalul/xdp-wiki.git&quot;,
+    &quot;accountId&quot;: &quot;b87019a2-5bdb-4a01-adac-d452b0390943&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/docusaurus.config.js" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -40,22 +84,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.docusaurus.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/dalol/WebstormProjects/xdp-wiki/docs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.docusaurus.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs" />
+      <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\versioned_docs\version-1.2.0" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\versioned_docs\version-1.2.0" />
+      <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\src\components" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.docusaurus">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -87,6 +142,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,6 +165,10 @@
       <workItem from="1707395653088" duration="2373000" />
       <workItem from="1707559781657" duration="2478000" />
       <workItem from="1707603618288" duration="634000" />
+      <workItem from="1717356026506" duration="826000" />
+      <workItem from="1717436203664" duration="60000" />
+      <workItem from="1718449059478" duration="380000" />
+      <workItem from="1722887999886" duration="745000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -200,7 +266,87 @@
       <option name="project" value="LOCAL" />
       <updated>1715184655237</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Origins Download added + Translation Changes">
+      <option name="closed" value="true" />
+      <created>1716285044629</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285044629</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix">
+      <option name="closed" value="true" />
+      <created>1716285328289</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285328289</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fix">
+      <option name="closed" value="true" />
+      <created>1716285484623</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285484623</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix">
+      <option name="closed" value="true" />
+      <created>1716285600370</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285600370</updated>
+    </task>
+    <task id="LOCAL-00017" summary="hopefuly fixed it">
+      <option name="closed" value="true" />
+      <created>1716285766152</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285766152</updated>
+    </task>
+    <task id="LOCAL-00018" summary="new version (no new things added still)">
+      <option name="closed" value="true" />
+      <created>1717356537877</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1717356537877</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Sortierung der Versions">
+      <option name="closed" value="true" />
+      <created>1717356701769</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717356701769</updated>
+    </task>
+    <task id="LOCAL-00020" summary="intro.mdx fix?">
+      <option name="closed" value="true" />
+      <created>1722786756980</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722786756980</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Removed Versions at first, now its testing time">
+      <option name="closed" value="true" />
+      <created>1723058885734</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723058885734</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fixed everything + cleared version folders">
+      <option name="closed" value="true" />
+      <created>1723059538569</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723059538569</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +376,15 @@
     <MESSAGE value="anouncement" />
     <MESSAGE value="Announcement" />
     <MESSAGE value="better Announcement" />
-    <option name="LAST_COMMIT_MESSAGE" value="better Announcement" />
+    <MESSAGE value="Fixed Name" />
+    <MESSAGE value="Origins Download added + Translation Changes" />
+    <MESSAGE value="Fix" />
+    <MESSAGE value="hopefuly fixed it" />
+    <MESSAGE value="new version (no new things added still)" />
+    <MESSAGE value="Sortierung der Versions" />
+    <MESSAGE value="intro.mdx fix?" />
+    <MESSAGE value="Removed Versions at first, now its testing time" />
+    <MESSAGE value="fixed everything + cleared version folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed everything + cleared version folders" />
   </component>
 </project>

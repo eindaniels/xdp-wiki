@@ -57,22 +57,6 @@ const config = {
               'https://github.com/xdalul/xdp-wiki/tree/master/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
-          lastVersion: 'current',
-          versions: {
-            "1.2.0": {
-              label: '1.2.0',
-              path: '1.2.0',
-              banner: 'unreleased',
-            },
-            "1.0.0": {
-              label: '1.0.0',
-              path: '1.0.0',
-              banner: 'unmaintained', 
-            },
-            "current": {
-              label: '1.1.0',
-            }
-          },
         },
         blog: {
           showReadingTime: true,
@@ -106,11 +90,6 @@ const config = {
               sidebarId: 'tutorialSidebar',
               position: 'left',
               label: 'Wiki',
-            },
-            {
-              type: 'docsVersionDropdown',
-              position: 'right',
-              dropdownActiveClassDisabled: true,
             },
             {to: '/blog', label: 'Blogs', position: 'left'},
             //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
