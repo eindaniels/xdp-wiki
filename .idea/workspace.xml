@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Fixed Name" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/docs/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/project-downloads.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/project-downloads.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.0.0/geschichte-des-serves.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.0.0/intro.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.0.0/mitglieder-biografien.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.1.0/geschichte-des-serves.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.1.0/intro.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.1.0/mitglieder-biografien.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.1.0/project-downloads.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.2.0/geschichte-des-serves.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.2.0/intro.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.2.0/mitglieder-biografien.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_docs/version-1.2.0/project-downloads.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_sidebars/version-1.0.0-sidebars.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_sidebars/version-1.1.0-sidebars.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/versioned_sidebars/version-1.2.0-sidebars.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,24 +112,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;#15 on dev&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalol/WebstormProjects/xdp-wiki/docs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.docusaurus.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/dalol/WebstormProjects/xdp-wiki/docs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.docusaurus.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.3.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\docs" />
@@ -605,7 +622,6 @@
     <MESSAGE value="fancy stuff" />
     <MESSAGE value="fix" />
     <MESSAGE value="Blog" />
-    <MESSAGE value="Changes" />
     <MESSAGE value="new colors" />
     <MESSAGE value="v2" />
     <MESSAGE value="version testing" />
@@ -624,6 +640,7 @@
     <MESSAGE value="Removed Announcement bar" />
     <MESSAGE value="Testing out renaming &quot;next&quot; Version" />
     <MESSAGE value="Fixed Name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Name" />
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>
