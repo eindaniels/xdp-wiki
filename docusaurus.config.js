@@ -90,7 +90,7 @@ const config = {
             //{to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
             {
               href: 'https://github.com/xdalul/xdp-wiki',
-              position: 'left',
+              position: 'right',
               className: 'header-github-link',
               'aria-label': 'GitHub repository',
             },
