@@ -103,41 +103,28 @@ const config = {
           ],
         },
         footer: {
-          style: 'fluid',
-          links: [
-            {
-              title: 'Docs',
-              items: [
-                {
-                  label: 'Wiki',
-                  to: '/docs/intro',
-                },
-              ],
-            },
-            {
-              title: 'Community',
-              items: [
-                {
-                  label: 'Discord',
-                  href: 'https://discord.gg/TMNUqyKz5T',
-                }
-              ],
-            },
-            {
-              title: '& Mehr',
-              items: [
-                {
-                  label: 'Blogs & Changes',
-                  to: '/blog',
-                },
-                {
-                  label: 'GitHub',
-                  href: 'https://github.com/xdalul/xdp-wiki',
-                },
-              ],
-            },
-          ],
-          copyright: `Copyright © 2022-2024 xdP. Built with Docusaurus.`,
+          style: 'dark',
+          links: {
+            links: [
+              {
+                label: 'Wiki',
+                to: '/docs/intro',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/xdalul/xdp-wiki',
+              },
+              {
+                label: 'Blog',
+                to: '/blog'
+              },
+              {
+                label: 'Discord',
+                href: 'https://discord.gg/PF7XheUUYe'
+              }
+            ],
+            copyright: `Copyright © ${new Date().getFullYear()} xdalul, Built with Docusaurus`,
+          },
         },
         prism: {
           theme: lightCodeTheme,

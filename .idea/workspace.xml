@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Update LICENSE">
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="new Colors + Footer Test">
+      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Copyright/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Layout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/Footer/LinkItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Links/MultiColumn/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Links/Simple/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Links/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Logo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Logo/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/Footer/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +59,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -58,23 +70,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dalol/WebstormProjects/xdp-wiki/versioned_docs/version-1.2.0&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.docusaurus.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/dalol/WebstormProjects/xdp-wiki/versioned_docs/version-1.2.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.docusaurus.executor": "Run",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dalol\WebstormProjects\xdp-wiki\versioned_docs\version-1.2.0" />
@@ -141,7 +154,7 @@
       <workItem from="1717356026506" duration="826000" />
       <workItem from="1717436203664" duration="60000" />
       <workItem from="1718449059478" duration="380000" />
-      <workItem from="1723461340569" duration="831000" />
+      <workItem from="1723461340569" duration="2565000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -351,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723461711136</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="new Colors + Footer Test">
+      <option name="closed" value="true" />
+      <created>1723462445246</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1723462445246</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,6 +412,7 @@
     <MESSAGE value="Namen Change :3" />
     <MESSAGE value="Kapitel 9 Teil 5 &amp; 6" />
     <MESSAGE value="Update LICENSE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update LICENSE" />
+    <MESSAGE value="new Colors + Footer Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="new Colors + Footer Test" />
   </component>
 </project>
