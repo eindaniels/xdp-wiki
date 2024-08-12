@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Edit Navbar">
-      <change beforePath="$PROJECT_DIR$/docs/intro.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/intro.mdx" afterDir="false" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Neuer Blog">
+      <change beforePath="$PROJECT_DIR$/blog/2024-08-12-returning-to-blogs.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/2024-08-12-returning-to-blogs.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,29 @@
 }</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1723488519" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1723484075" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
@@ -514,7 +537,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723483243779</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Big Update">
+      <option name="closed" value="true" />
+      <created>1723484254173</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1723484254173</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Neuer Blog">
+      <option name="closed" value="true" />
+      <created>1723489168444</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1723489168444</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Neuer Blog">
+      <option name="closed" value="true" />
+      <created>1723489293193</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1723489293193</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,8 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix" />
-    <MESSAGE value="Blog" />
     <MESSAGE value="anouncement" />
     <MESSAGE value="Announcement" />
     <MESSAGE value="better Announcement" />
@@ -557,6 +602,8 @@
     <MESSAGE value="tabs are now tabs--block" />
     <MESSAGE value="Edited Download-Cards" />
     <MESSAGE value="Edit Navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit Navbar" />
+    <MESSAGE value="Big Update" />
+    <MESSAGE value="Neuer Blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Neuer Blog" />
   </component>
 </project>
