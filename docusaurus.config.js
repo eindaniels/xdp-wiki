@@ -103,7 +103,7 @@ const config = {
           ],
         },
         footer: {
-          style: 'dark',
+          style: 'fluid',
           links: [
             {
               title: 'Docs',
