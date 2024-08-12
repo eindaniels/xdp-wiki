@@ -10,8 +10,9 @@ const Playgrounds = [
         url: "https://www.mediafire.com/file/2a3dlll65jhozqr/archive-2021-12-24T220447%252B0100.tar/file",
         description: (
             <Translate id="realm.download.description">
-                Der Survival Events Realm war das erste richtige Minecraft ding
-                von mir, wo auch die meisten dazu kamen und
+                Der Survival Events Realm war das erste
+                richtige Minecraft ding von mir,
+                wo auch die meisten dazu kamen und
                 bis heute geblieben sind (Wenige von ihnen xd)
             </Translate>
         )
@@ -54,7 +55,7 @@ function PlaygroundCard({ name, image, url, urlTS, description }) {
                         </b>
                     </div>
                     <div className="button-group button-group--block">
-                        <Link className="button button--secondary" to={url}>
+                        <Link className="button button--info" to={url}>
                             Welt-Download
                         </Link>
                     </div>

@@ -11,9 +11,10 @@ const Playgrounds = [
         urlTS: "https://www.mediafire.com/file/tccs91l7e24ajc5/CA_3_Doomsday.zip/file",
         description: (
             <Translate id="craftattack.download.one.description">
-                Der 3. Teil von Craftattack bereits, was I guess das
-                normalste war von allen bisher es waren Ok leute aktiv
-                ausser dass wir paar Fehler bei den Datapacks gemacht haben, aber naja
+                Der 3. Teil von Craftattack bereits,
+                was I guess das normalste war von allen bisher es
+                waren Ok leute aktiv ausser dass wir paar Fehler
+                bei den Datapacks gemacht haben, aber naja
             </Translate>
         )
     },
@@ -23,10 +24,12 @@ const Playgrounds = [
         urlTS: "https://www.mediafire.com/file/dc34xwti4rnldms/CA_4_World_Doomsday.zip/file",
         description: (
             <Translate id="craftattack.download.two.description">
-                Naja sind wir schon beim vierten... Hier passierte sehr
-                viel mit rum experimentieren von Features und anderem
-                z.B. es gab den Hub, ein Mayor Feature, Ramen und viele NPCs.
-                Für erstmal sollte das, das letzte Craftattack gewesen sein, hieß es.
+                Naja sind wir schon beim vierten... Hier
+                passierte sehr viel mit rum experimentieren
+                von Features und anderem z.B. es gab den Hub,
+                ein Mayor Feature, Ramen und viele NPCs.
+                Für erstmal sollte das, das letzte
+                Craftattack gewesen sein, hieß es.
             </Translate>
         )
     }
@@ -47,10 +50,10 @@ function PlaygroundCard({ name, image, url, urlTS, description }) {
                         </b>
                     </div>
                     <div className="button-group button-group--block">
-                        <Link className="button button--secondary" to={url}>
+                        <Link className="button button--warning" to={url}>
                             Normale Welt
                         </Link>
-                        <Link className="button button--secondary" to={urlTS}>
+                        <Link className="button button--warning" to={urlTS}>
                             Doomsday Welt
                         </Link>
                     </div>

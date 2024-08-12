@@ -11,9 +11,10 @@ const Playgrounds = [
         urlTS: "https://modrinth.com/modpack/xdaluls-origins",
         description: (
             <Translate id="origins.download.description">
-                Erstes aktives Minecraft Mod Projekt von uns, mit der Hauptmod
-                Origins und vielen weiteren Mods. Zum spielen der Welt bitte
-                unten auf dem Modpack button, das Modpack auf Modrinth herunterladen.
+                Erstes aktives Minecraft Mod Projekt von uns,
+                mit der Hauptmod Origins und vielen weiteren
+                Mods. Zum spielen der Welt bitte unten auf dem Modpack
+                button, das Modpack auf Modrinth herunterladen.
             </Translate>
         )
     }
@@ -55,10 +56,10 @@ function PlaygroundCard({ name, image, url, urlTS, description }) {
                         </b>
                     </div>
                     <div className="button-group button-group--block">
-                        <Link className="button button--secondary" to={url}>
+                        <Link className="button button--primary" to={url}>
                             Welt Download
                         </Link>
-                        <Link className="button button--secondary" to={urlTS}>
+                        <Link className="button button--primary" to={urlTS}>
                             Modpack
                         </Link>
                     </div>
