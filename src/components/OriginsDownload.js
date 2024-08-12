@@ -69,7 +69,7 @@ function PlaygroundCard({ name, image, url, urlTS, description }) {
     )
 }
 
-export function OriginsDownloadRow() {
+export function OriginsDownloadRowss() {
     return (
         <div className="row">
             {Playgrounds.map(playground => (
