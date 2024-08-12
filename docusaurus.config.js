@@ -103,28 +103,27 @@ const config = {
           ],
         },
         footer: {
-          style: 'dark',
-          links: {
-            links: [
-              {
-                label: 'Wiki',
-                to: '/docs/intro',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/xdalul/xdp-wiki',
-              },
-              {
-                label: 'Blog',
-                to: '/blog'
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/PF7XheUUYe'
-              }
-            ],
-            copyright: `Copyright © ${new Date().getFullYear()} xdalul, Built with Docusaurus`,
-          },
+          links: [
+            {
+              label: 'Stack Overflow',
+              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            },
+            {
+              label: 'Discord',
+              href: 'https://discordapp.com/invite/docusaurus',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/docusaurus',
+            },
+            {
+              html: `
+            <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+              <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
+            </a>
+          `,
+            },
+          ],
         },
         prism: {
           theme: lightCodeTheme,

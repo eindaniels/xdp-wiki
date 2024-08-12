@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="new Colors + Footer Test">
-      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Copyright/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Layout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/Footer/LinkItem/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Links/MultiColumn/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Links/Simple/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Links/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Logo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/Footer/Logo/styles.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/theme/Footer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Footer Test 2.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +142,7 @@
       <workItem from="1717356026506" duration="826000" />
       <workItem from="1717436203664" duration="60000" />
       <workItem from="1718449059478" duration="380000" />
-      <workItem from="1723461340569" duration="2565000" />
+      <workItem from="1723461340569" duration="2890000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -372,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723462445246</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Footer Test 2.0">
+      <option name="closed" value="true" />
+      <created>1723464204219</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1723464204219</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,6 +409,7 @@
     <MESSAGE value="Kapitel 9 Teil 5 &amp; 6" />
     <MESSAGE value="Update LICENSE" />
     <MESSAGE value="new Colors + Footer Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="new Colors + Footer Test" />
+    <MESSAGE value="Footer Test 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Footer Test 2.0" />
   </component>
 </project>
