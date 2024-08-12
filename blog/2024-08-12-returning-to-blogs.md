@@ -3,8 +3,9 @@ title: 'Returning to blogs'
 slug: 'returning-to-blogs'
 authors: 'wobli'
 tags:
-  - 'stats'
-  - 'anarchy'
+  - 'blog'
+  - 'games'
+  - 'wombli'
 ---
 
 Hej wombli again.
