@@ -9,7 +9,7 @@ tags:
 ---
 
 Hej wombli again.
-Ich dachte das es neat wäre nochmal was in den blogs zu machen. Diesmal eine mini serie wo ich über games reden will die ich gespielt hab. Und ich will das ganze mit nem spiel anfangen was ich im vorherigen tag sogar durchgespielt hab Persona 3 Reload.
+Ich dachte das es neat wäre nochmal was in den blogs zu machen. Diesmal eine mini serie wo ich über games reden will die ich gespielt hab. Und ich will das ganze mit nem spiel anfangen was ich im vorherigen tag sogar durchgespielt hab [Persona 3 Reload](https://www.youtube.com/watch?v=hWhgrA2dhrk&feature=youtu.be).
 
 
 Die persona serie an games gehört zur sogenannten Shin Megami Tensei reihe, die durch relativ bedrückene probleme in der adulthood bekannt wurde. In Persona 3 geht es primär um das thema dem tod endgegenzustehen und keine angst davor zu haben, und auch suizid zum teil.

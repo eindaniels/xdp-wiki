@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Big Update">
-      <change afterPath="$PROJECT_DIR$/blog/2024-08-12-returning-to-blogs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Neuer Blog">
+      <change beforePath="$PROJECT_DIR$/blog/2024-08-12-returning-to-blogs.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/2024-08-12-returning-to-blogs.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -546,7 +545,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723484254173</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Neuer Blog">
+      <option name="closed" value="true" />
+      <created>1723489168444</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1723489168444</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Neuer Blog">
+      <option name="closed" value="true" />
+      <created>1723489293193</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1723489293193</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Blog" />
     <MESSAGE value="anouncement" />
     <MESSAGE value="Announcement" />
     <MESSAGE value="better Announcement" />
@@ -589,6 +603,7 @@
     <MESSAGE value="Edited Download-Cards" />
     <MESSAGE value="Edit Navbar" />
     <MESSAGE value="Big Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Big Update" />
+    <MESSAGE value="Neuer Blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Neuer Blog" />
   </component>
 </project>
