@@ -18,16 +18,22 @@ sidebar_position: 1
 
 > Da findest du alle Welt-Downloads von den Projekten die wir gemacht haben, da ist aber wichtig dass wir auch ein paar verloren haben, aber bitte nicht dafür haten.
 
-<ul class="tabs tabs--block">
-    <li class="tabs__item tabs__item--active">Alpha</li>
-        <p>Test</p>
-    <li class="tabs__item">Beta</li>
-        <p>Test 1</p>
-    <li class="tabs__item">Gamma</li>
-        <p>Test 2</p>
-    <li class="tabs__item">Zeta</li>
-        <p>Test 3</p>
-</ul>
+<div className="tabs tabs--block">
+  <input type="radio" id="tab1" name="tabGroup" defaultChecked />
+  <label htmlFor="tab1">Tab 1</label>
+
+  <input type="radio" id="tab2" name="tabGroup" />
+  <label htmlFor="tab2">Tab 2</label>
+
+  <div className="tab-content">
+    <div id="content1">
+      <p>Inhalt des Tabs 1</p>
+    </div>
+    <div id="content2">
+      <p>Inhalt des Tabs 2</p>
+    </div>
+  </div>
+</div>
 
 
 :::note Info
