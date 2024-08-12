@@ -20,7 +20,7 @@ const config = {
     ],
   ],
   title: 'Wiki',
-  tagline: '',
+  tagline: 'Wiki',
   // favicon: 'img/logo.png',
 
   // Set the production url of your site here
