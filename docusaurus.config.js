@@ -79,7 +79,7 @@ const config = {
         // Replace with your project's social card
         // image: 'img/banner.png',
         navbar: {
-          title: 'Wiki',
+          title: 'Hardcore Wiki',
           // logo: {
           //   alt: 'CA Logo',
           //   src: 'img/logo.png',
@@ -88,15 +88,15 @@ const config = {
             {
               type: 'docSidebar',
               sidebarId: 'tutorialSidebar',
-              position: 'left',
+              position: 'right',
               label: 'Wiki',
             },
-            {to: '/blog', label: 'Blogs', position: 'left'},
+            {to: '/blog', label: 'Blogs', position: 'right'},
             //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
             //{to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
             {
               href: 'https://github.com/xdalul/xdp-wiki',
-              position: 'right',
+              position: 'left',
               className: 'header-github-link',
               'aria-label': 'GitHub repository',
             },

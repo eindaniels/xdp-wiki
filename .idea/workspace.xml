@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Edited Download-Cards">
-      <change beforePath="$PROJECT_DIR$/docs/project-downloads.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/project-downloads.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,7 @@
       <workItem from="1717356026506" duration="826000" />
       <workItem from="1717436203664" duration="60000" />
       <workItem from="1718449059478" duration="380000" />
-      <workItem from="1723461340569" duration="10077000" />
+      <workItem from="1723461340569" duration="10519000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
@@ -482,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723482333117</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Edited Download-Cards">
+      <option name="closed" value="true" />
+      <created>1723482475587</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1723482475587</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
