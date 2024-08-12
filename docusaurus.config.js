@@ -19,8 +19,8 @@ const config = {
       },
     ],
   ],
-  title: 'Wiki',
-  tagline: 'Wiki',
+  title: 'Hardcore Wiki',
+  tagline: 'Projekte Wiki von xdalul',
   // favicon: 'img/logo.png',
 
   // Set the production url of your site here
