@@ -85,13 +85,7 @@ const config = {
           //   src: 'img/logo.png',
           // },
           items: [
-            {
-              type: 'docSidebar',
-              sidebarId: 'tutorialSidebar',
-              position: 'right',
-              label: 'Wiki',
-            },
-            {to: '/blog', label: 'Blogs', position: 'right'},
+            {to: '/blog', label: 'Blogs', position: 'left'},
             //{to: '/community-guidelines', label: 'CA 4 Richtlinien', position: 'left'},
             //{to: '/rp-gesetze', label: 'RP Gesetze', position: 'left'},
             {
