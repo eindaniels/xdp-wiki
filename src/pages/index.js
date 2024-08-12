@@ -45,6 +45,7 @@ function Home() {
                                 <div className="margin-vert--lg text--center">
                                     <h2 className={styles.sectionDarkTitle}>
                                         Alles was du brauchst für unsere Projekte steht hier im Wiki.
+                                        (Wenn es auch was gibt ;p)
                                     </h2>
                                 </div>
                             </div>
@@ -55,7 +56,6 @@ function Home() {
                     <p className="container">
                         <p className="row">
                             <p className="col col--10 col--offset-1">
-                                <h2 className="text--center margin-bottom--xl">Why Infima?</h2>
                                 <div className="row margin-vert--lg">
                                     <div className="col">
                                         <h3>Geschichte</h3>
