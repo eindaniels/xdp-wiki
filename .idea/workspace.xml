@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Neuer Blog">
-      <change afterPath="$PROJECT_DIR$/src/components/CA4Revival.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="tutorial for noobs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,14 +167,6 @@
       <workItem from="1718449059478" duration="380000" />
       <workItem from="1723461340569" duration="11163000" />
       <workItem from="1723982874408" duration="638000" />
-    </task>
-    <task id="LOCAL-00001" summary="New blog ;3">
-      <option name="closed" value="true" />
-      <created>1705504093455</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1705504093455</updated>
     </task>
     <task id="LOCAL-00002" summary="commit 1">
       <option name="closed" value="true" />
@@ -563,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723489293193</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="tutorial for noobs">
+      <option name="closed" value="true" />
+      <created>1724009149364</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1724009149366</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +578,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="anouncement" />
     <MESSAGE value="Announcement" />
     <MESSAGE value="better Announcement" />
     <MESSAGE value="Fixed Name" />
@@ -606,6 +602,7 @@
     <MESSAGE value="Edit Navbar" />
     <MESSAGE value="Big Update" />
     <MESSAGE value="Neuer Blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Neuer Blog" />
+    <MESSAGE value="tutorial for noobs" />
+    <option name="LAST_COMMIT_MESSAGE" value="tutorial for noobs" />
   </component>
 </project>
