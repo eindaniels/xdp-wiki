@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Neuer Blog">
-      <change beforePath="$PROJECT_DIR$/blog/2024-08-12-returning-to-blogs.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/2024-08-12-returning-to-blogs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CA4Revival.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="dev" />
-                    <option name="lastUsedInstant" value="1723488519" />
+                    <option name="lastUsedInstant" value="1723983443" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -168,6 +169,7 @@
       <workItem from="1717436203664" duration="60000" />
       <workItem from="1718449059478" duration="380000" />
       <workItem from="1723461340569" duration="11163000" />
+      <workItem from="1723982874408" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="New blog ;3">
       <option name="closed" value="true" />
