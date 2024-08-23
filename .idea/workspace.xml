@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="tutorial for noobs" />
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="tutorial for noobs">
+      <change afterPath="$PROJECT_DIR$/src/components/HardcoreDownload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,11 +39,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="dev" />
-                    <option name="lastUsedInstant" value="1723983443" />
+                    <option name="lastUsedInstant" value="1724010619" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1723484075" />
+                    <option name="lastUsedInstant" value="1724010459" />
                   </RecentBranch>
                 </list>
               </option>
@@ -167,6 +170,7 @@
       <workItem from="1718449059478" duration="380000" />
       <workItem from="1723461340569" duration="11163000" />
       <workItem from="1723982874408" duration="638000" />
+      <workItem from="1724435705521" duration="701000" />
     </task>
     <task id="LOCAL-00002" summary="commit 1">
       <option name="closed" value="true" />
