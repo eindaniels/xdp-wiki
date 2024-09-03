@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Geschichte herausfinden',
+    title: 'Geschichte',
     description: (
       <>
-        Du kannst hier im Wiki herausfinden,
-        was wir früher gemacht haben...
+        Finde heraus was wir alles
+        bereits veranstaltet haben und wie es verlaufen ist.
       </>
     ),
   },
   {
-    title: 'Blogs & Changes',
+    title: 'Blogs',
     description: (
       <>
-        Hier bekommst du fast immer neuigkeiten
-        von CA wie auch Update Changelogs...
+        Finde mehr über das Team hinter
+        den Projekten heraus, indem du ihre
+        Blog-Posts liest.
       </>
     ),
   },
   {
-    title: 'Biografien',
+    title: 'Downloads',
     description: (
       <>
-        Lerne die Teilnehmer von CA kennen und schreibe vlt.
-        auch deine eigene Biografie...
+        Jegliche Projekte die wir gemacht haben findest du dort, bis auf paar Ausnahmen haha.
       </>
     ),
   },
