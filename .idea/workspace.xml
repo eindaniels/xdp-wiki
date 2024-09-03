@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Hardcore Download">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomepageFeatures/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomepageFeatures/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="Changes to Main-Page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,15 +168,7 @@
       <workItem from="1723461340569" duration="11163000" />
       <workItem from="1723982874408" duration="638000" />
       <workItem from="1724435705521" duration="701000" />
-      <workItem from="1725396424279" duration="308000" />
-    </task>
-    <task id="LOCAL-00002" summary="commit 1">
-      <option name="closed" value="true" />
-      <created>1705600607028</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1705600607028</updated>
+      <workItem from="1725396424279" duration="633000" />
     </task>
     <task id="LOCAL-00003" summary="dropdown now right">
       <option name="closed" value="true" />
@@ -565,7 +554,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724009149366</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Changes to Main-Page">
+      <option name="closed" value="true" />
+      <created>1725397018817</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1725397018817</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,7 +580,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="better Announcement" />
     <MESSAGE value="Fixed Name" />
     <MESSAGE value="Origins Download added + Translation Changes" />
     <MESSAGE value="Fix" />
@@ -608,6 +604,7 @@
     <MESSAGE value="Neuer Blog" />
     <MESSAGE value="tutorial for noobs" />
     <MESSAGE value="Hardcore Download" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hardcore Download" />
+    <MESSAGE value="Changes to Main-Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes to Main-Page" />
   </component>
 </project>
