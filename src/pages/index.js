@@ -60,22 +60,19 @@ function Home() {
                                     <div className="col">
                                         <h3>Geschichte</h3>
                                         <p>
-                                            Lerne über die Geschichte von unseren Projekten
-                                            oder auch anderen Servern :3
+                                            Finde heraus was wir alles bereits veranstaltet haben und wie es verlaufen ist.
                                         </p>
                                     </div>
                                     <div className="col">
                                         <h3>Blogs</h3>
                                         <p>
-                                            Siehe Blogs aus unseren Projekten oder sachen aus dem
-                                            Real Life von unserem Admin Team
+                                            Finde mehr über das Team hinter den Projekten heraus, indem du ihre Blog-Posts liest.
                                         </p>
                                     </div>
                                     <div className="col">
-                                        <h3>Veränderbar mit GitHub</h3>
+                                        <h3>Downloads</h3>
                                         <p>
-                                            Wenn du willst, kannst du jederzeit durch einen
-                                            Pull Request auf unseren GitHub sachen im Wiki verändern.
+                                            Jegliche Projekte die wir gemacht haben findest du dort, bis auf paar Ausnahmen haha.
                                         </p>
                                     </div>
                                 </div>
