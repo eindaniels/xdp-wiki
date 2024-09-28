@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="tutorial for noobs">
-      <change afterPath="$PROJECT_DIR$/src/components/HardcoreDownload.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="32b0999d-4b68-496b-8201-55678893a81a" name="Changes" comment="tutorial fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,30 +168,6 @@
       <workItem from="1723461340569" duration="11163000" />
       <workItem from="1723982874408" duration="638000" />
       <workItem from="1724435705521" duration="701000" />
-    </task>
-    <task id="LOCAL-00002" summary="commit 1">
-      <option name="closed" value="true" />
-      <created>1705600607028</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1705600607028</updated>
-    </task>
-    <task id="LOCAL-00003" summary="dropdown now right">
-      <option name="closed" value="true" />
-      <created>1705600900569</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1705600900569</updated>
-    </task>
-    <task id="LOCAL-00004" summary="removed any CCA Stuff">
-      <option name="closed" value="true" />
-      <created>1707396976630</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1707396976630</updated>
     </task>
     <task id="LOCAL-00005" summary="removed any CCA Stuff">
       <option name="closed" value="true" />
@@ -564,7 +537,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724009149366</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="tutorial fix">
+      <option name="closed" value="true" />
+      <created>1727525447964</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1727525447964</updated>
+    </task>
+    <task id="LOCAL-00052" summary="tutorial fix">
+      <option name="closed" value="true" />
+      <created>1727525573959</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1727525573959</updated>
+    </task>
+    <task id="LOCAL-00053" summary="tutorial fix">
+      <option name="closed" value="true" />
+      <created>1727525680302</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1727525680302</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +579,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Announcement" />
     <MESSAGE value="better Announcement" />
     <MESSAGE value="Fixed Name" />
     <MESSAGE value="Origins Download added + Translation Changes" />
@@ -607,6 +603,7 @@
     <MESSAGE value="Big Update" />
     <MESSAGE value="Neuer Blog" />
     <MESSAGE value="tutorial for noobs" />
-    <option name="LAST_COMMIT_MESSAGE" value="tutorial for noobs" />
+    <MESSAGE value="tutorial fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="tutorial fix" />
   </component>
 </project>
