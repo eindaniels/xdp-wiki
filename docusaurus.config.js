@@ -150,7 +150,7 @@ const config = {
         announcementBar: {
           id: 'achtung',
           content:
-              'Diese Webseite wird bald archiviert bzw. Offline genommen. Danke für diese Zeit :3',
+              'Diese Webseite wird bald erstmals archiviert (bzw. es werden keine Änderungen mehr folgen). Danke für diese Zeit :3',
           backgroundColor: '#c0b07f',
           textColor: '#000000',
 
