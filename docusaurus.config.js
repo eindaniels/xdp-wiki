@@ -147,15 +147,15 @@ const config = {
 
           //... other Algolia params
         },
-        //announcementBar: {
-          //id: 'achtung',
-          //content:
-              //'Wir sind gerade am erneuern des Wikis. Feedback wäre sehr nett von euch.',
-          //backgroundColor: '#c0b07f',
-          //textColor: '#000000',
+        announcementBar: {
+          id: 'achtung',
+          content:
+              'Diese Webseite wird bald archiviert bzw. Offline genommen. Danke für diese Zeit :3',
+          backgroundColor: '#c0b07f',
+          textColor: '#000000',
 
-          //isCloseable: true,
-        //},
+          isCloseable: false,
+        },
       }),
 };
 
